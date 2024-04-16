@@ -1,6 +1,6 @@
 # Awesome Link Prediction
 
-Link prediction (LP) attempts to predict unobserved edges in a graph. It has been adopted in many applications including recommender systems, social networks, knowledge graphs, and drug discovery. We collect papers published at NIPS, ICML, ICLR, LoG, WWW, KDD, AAAI, IJCAI, SIGIR, ICDE, WSDM, CIKM, ECML/PKDD, ICDM, ECAI, DASSFA, ICASSP, TPAMI, TKDE, TNNLS, TKDD, TMLR, Pattern Recognition and so on.
+Link Prediction (LP) attempts to predict unobserved edges in a graph. It has been adopted in many applications including recommender systems, social networks, knowledge graphs, and drug discovery. We collect papers published at NIPS, ICML, ICLR, LoG, WWW, KDD, AAAI, IJCAI, SIGIR, ICDE, WSDM, CIKM, ECML/PKDD, ICDM, ECAI, DASSFA, ICASSP, TPAMI, TKDE, TNNLS, TKDD, TMLR, Pattern Recognition and so on.
 
 
 
@@ -13,16 +13,6 @@ Link prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 | 2023 | [Temporal Link Prediction: A Unified Framework, Taxonomy, and Review](https://arxiv.org/abs/2210.08765) | ACM Comput. Surv. | [Link](https://github.com/KuroginQin/OpenTLP) |
 | 2023 | [Evaluating Graph Neural Networks for Link Prediction: Current Pitfalls and New Benchmarking](https://arxiv.org/abs/2306.10453) | NIPS              | [Link](https://github.com/Juanhui28/HeaRT)    |
 | 2022 | [Towards Better Evaluation for Dynamic Link Prediction](https://arxiv.org/abs/2207.10128) | NIPS              | [Link](https://github.com/fpour/DGB)          |
-
-
-
-## Preprint
-
-- [Mixture of Link Predictors](https://arxiv.org/abs/2402.08583)
-
-- [Node Duplication Improves Cold-start Link Prediction](https://arxiv.org/abs/2402.09711)
-
-- [LPFormer: An Adaptive Graph Transformer for Link Prediction](https://arxiv.org/abs/2310.11009)
 
 
 
@@ -67,8 +57,8 @@ Link prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 | 2022 | [OOD Link Prediction Generalization Capabilities of Message-Passing GNNs in Larger Test Graphs](https://arxiv.org/abs/2205.15117) | NIPS              | [Link](https://github.com/yangzez/OOD-Link-Prediction-Generalization-MPNN) |
 | 2022 | [Learning from Counterfactual Links for Link Prediction](https://arxiv.org/abs/2106.02172) | ICML              | [Link](https://github.com/DM2-ND/CFLP)                       |
 | 2022 | [Neural Link Prediction with Walk Pooling](https://arxiv.org/abs/2110.04375) | ICLR              | [Link](https://github.com/DaDaCheng/WalkPooling)             |
-| 2022 | [FakeEdge: Alleviate Dataset Shift in Link Prediction](https://arxiv.org/abs/2211.15899) | LoG               |                                                              |
-| 2022 | [Flashlight: Scalable Link Prediction with Effective Decoders](https://arxiv.org/abs/2209.10100) | LoG               | [Link](https://github.com/Barcavin/FakeEdge)                 |
+| 2022 | [FakeEdge: Alleviate Dataset Shift in Link Prediction](https://arxiv.org/abs/2211.15899) | LoG  | [Link](https://github.com/Barcavin/FakeEdge) |
+| 2022 | [Flashlight: Scalable Link Prediction with Effective Decoders](https://arxiv.org/abs/2209.10100) | LoG  | Link                                         |
 | 2022 | [Effective Higher-order Link Prediction and Reconstruction from Simplicial Complex Embeddings](https://openreview.net/forum?id=UiBiLRXR0G) | LoG               | [Link](https://github.com/simonepiaggesi/simplex2pred)       |
 | 2022 | [Similarity-based Link Prediction from Modular Compression of Network Flows](https://arxiv.org/abs/2208.14220) | LoG               | [Link](https://github.com/mapequation/map-equation-similarity) |
 | 2022 | [Deepened Graph Auto-Encoders Help Stabilize and Enhance Link Prediction](https://arxiv.org/abs/2103.11414) | IJCAI             | [Link](https://github.com/xinxingwu-uk/DGAE)                 |
