@@ -36,6 +36,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 | 2023 | [Combating Bilateral Edge Noise for Robust Link Prediction](https://arxiv.org/abs/2311.01196) | NIPS              | [Link](https://github.com/AndrewZhou924/RGIB)                |
 | 2023 | [Cross-links Matter for Link Prediction: Rethinking the Debiased GNN from a Data Perspective](https://papers.nips.cc/paper_files/paper/2023/hash/fba4a59c7a569fce120eea9aa9227052-Abstract-Conference.html) | NIPS              | [Link](https://github.com/CGCL-codes/Cross-links-Bias)       |
 | 2023 | [Deep Insights into Noisy Pseudo Labeling on Graph Data](https://arxiv.org/abs/2310.01634) | NIPS              | [Link](https://github.com/AcEbt/CPL)                         |
+| 2023 | [Inductive Link Prediction in Static and Temporal Graphs for Isolated Nodes](https://openreview.net/forum?id=DRrSYKNhD1) | NIPS-W            | [Link](https://github.com/ChatterjeeAyan/ILP)                |
 | 2023 | [Linkless Link Prediction via Relational Distillation](https://arxiv.org/abs/2210.05801) | ICML              | [Link](https://github.com/snap-research/linkless-link-prediction/) |
 | 2023 | [Graph Neural Networks for Link Prediction with Subgraph Sketching](https://arxiv.org/abs/2209.15486) | ICLR              | [Link](https://github.com/melifluos/subgraph-sketching)      |
 | 2023 | [Link Prediction with Non-Contrastive Learning](https://arxiv.org/abs/2211.14394) | ICLR              | [Link](https://github.com/snap-research/non-contrastive-link-prediction) |
