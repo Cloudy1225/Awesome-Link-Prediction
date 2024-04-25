@@ -1,6 +1,6 @@
 # Awesome Link Prediction
 
-Link Prediction (LP) attempts to predict unobserved edges in a graph. It has been adopted in many applications including recommender systems, social networks, knowledge graphs, and drug discovery. We collect papers published at NIPS, ICML, ICLR, LoG, WWW, KDD, AAAI, IJCAI, SIGIR, ICDE, WSDM, CIKM, ECML/PKDD, ICDM, ECAI, DASSFA, ICASSP, TPAMI, TKDE, TNNLS, TKDD, TMLR, Pattern Recognition and so on.
+Link Prediction (LP) attempts to predict unobserved edges in a graph. It has been adopted in many applications including recommender systems, social networks, knowledge graphs, and drug discovery. We collect papers published at TPAMI, NIPS, ICML, ICLR, WWW, WSDM, LoG, KDD, CIKM, TKDE, AAAI, IJCAI, ECML/PKDD, ICDM, SIGIR, ICDE, INFOCOM, TNNLS, TKDD, ECAI, DASSFA, ICASSP, TMLR, Pattern Recognition and so on.
 
 
 
@@ -146,6 +146,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 | 2021 | [Temporal Link Prediction With Motifs for Social Networks](https://ieeexplore.ieee.org/document/9525268) | TKDE   |                                                Link |
 | 2020 | [Continuous-Time Link Prediction via Temporal Dependent Graph Neural Network](https://dl.acm.org/doi/10.1145/3366423.3380073) | WWW    |          [Link](https://github.com/Leo-Q-316/TDGNN) |
 | 2020 | [Modeling Dynamic Heterogeneous Network for Link Prediction using Hierarchical Attention with Temporal RNN](https://arxiv.org/abs/2004.01024) | CIKM   |            [Link](https://github.com/skx300/DyHATR) |
+| 2019 | [GCN-GAN: A Non-linear Temporal Link Prediction Model for Weighted Dynamic Networks](https://ieeexplore.ieee.org/document/8737631) | INFOCOM | [Link](https://github.com/jiangqn/GCN-GAN-pytorch)  |
 | 2019 | [Time-aware Gradient Attack on Dynamic Network Link Prediction](https://arxiv.org/abs/1911.10561) | TKDE   |                                                Link |
 
 
