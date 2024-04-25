@@ -96,6 +96,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 | 2019 | [Neighborhood Interaction Attention Network for Link Prediction](https://dl.acm.org/doi/10.1145/3357384.3358093) | CIKM              | Link                                                         |
 | 2018 | [Link Prediction Based on Graph Neural Networks](https://arxiv.org/abs/1802.09691) | NIPS              | [Link](https://github.com/pyg-team/pytorch_geometric/blob/master/examples/seal_link_pred.py) |
 | 2018 | [Adversarially Regularized Graph Autoencoder for Graph Embedding](https://arxiv.org/abs/1802.04407) | IJCAI             | [Link](https://github.com/pyg-team/pytorch_geometric/blob/master/examples/argva_node_clustering.py) |
+| 2017 | [Weisfeiler-Lehman Neural Machine for Link Prediction](https://dl.acm.org/doi/10.1145/3097983.3097996) | KDD               | [Link](https://github.com/muhanzhang/LinkPrediction)         |
 | 2017 | [Predictive Network Representation Learning for Link Prediction](https://dl.acm.org/doi/10.1145/3077136.3080692) | SIGIR             | [Link](https://github.com/zhitao-wang/plnlp)                 |
 | 2016 | [Variational Graph Auto-Encoders](https://arxiv.org/abs/1611.07308) | NIPS-W            | [Link](https://github.com/pyg-team/pytorch_geometric/blob/master/examples/autoencoder.py) |
 
