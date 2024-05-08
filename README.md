@@ -20,6 +20,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 
 | Year | Title                                                        | Venue             | Code                                                         |
 | ---- | ------------------------------------------------------------ | ----------------- | ------------------------------------------------------------ |
+| 2024 | [Networked Inequality: Preferential Attachment Bias in Graph Neural Network Link Prediction](https://arxiv.org/abs/2309.17417) | ICML              | [Link](https://github.com/ArjunSubramonian/link_bias_amplification) |
 | 2024 | [A Topological Perspective on Demystifying GNN-Based Link Prediction Performance](https://arxiv.org/abs/2310.04612) | ICLR              | [Link](https://github.com/YuWVandy/Topo_LP_GNN)              |
 | 2024 | [Neural Common Neighbor with Completion for Link Prediction](https://arxiv.org/abs/2302.00890) | ICLR              | [Link](https://github.com/GraphPKU/NeuralCommonNeighbor)     |
 | 2024 | [Revisiting Link Prediction: A Data Perspective](https://arxiv.org/abs/2310.00793) | ICLR              | Link                                                         |
@@ -58,6 +59,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 | 2022 | [OOD Link Prediction Generalization Capabilities of Message-Passing GNNs in Larger Test Graphs](https://arxiv.org/abs/2205.15117) | NIPS              | [Link](https://github.com/yangzez/OOD-Link-Prediction-Generalization-MPNN) |
 | 2022 | [Learning from Counterfactual Links for Link Prediction](https://arxiv.org/abs/2106.02172) | ICML              | [Link](https://github.com/DM2-ND/CFLP)                       |
 | 2022 | [Neural Link Prediction with Walk Pooling](https://arxiv.org/abs/2110.04375) | ICLR              | [Link](https://github.com/DaDaCheng/WalkPooling)             |
+| 2022 | [Equivariant and Stable Positional Encoding for More Powerful Graph Neural Networks](https://arxiv.org/abs/2203.00199) | ICLR              | [Link](https://github.com/Graph-COM/PEG)                     |
 | 2022 | [FakeEdge: Alleviate Dataset Shift in Link Prediction](https://arxiv.org/abs/2211.15899) | LoG  | [Link](https://github.com/Barcavin/FakeEdge) |
 | 2022 | [Flashlight: Scalable Link Prediction with Effective Decoders](https://arxiv.org/abs/2209.10100) | LoG  | Link                                         |
 | 2022 | [Effective Higher-order Link Prediction and Reconstruction from Simplicial Complex Embeddings](https://openreview.net/forum?id=UiBiLRXR0G) | LoG               | [Link](https://github.com/simonepiaggesi/simplex2pred)       |
