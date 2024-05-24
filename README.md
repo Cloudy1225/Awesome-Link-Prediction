@@ -23,9 +23,9 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 | 2024 | [Networked Inequality: Preferential Attachment Bias in Graph Neural Network Link Prediction](https://arxiv.org/abs/2309.17417) | ICML              | [Link](https://github.com/ArjunSubramonian/link_bias_amplification) |
 | 2024 | [A Topological Perspective on Demystifying GNN-Based Link Prediction Performance](https://arxiv.org/abs/2310.04612) | ICLR              | [Link](https://github.com/YuWVandy/Topo_LP_GNN)              |
 | 2024 | [Neural Common Neighbor with Completion for Link Prediction](https://arxiv.org/abs/2302.00890) | ICLR              | [Link](https://github.com/GraphPKU/NeuralCommonNeighbor)     |
-| 2024 | [Revisiting Link Prediction: A Data Perspective](https://arxiv.org/abs/2310.00793) | ICLR              | Link                                                         |
+| 2024 | [Revisiting Link Prediction: A Data Perspective](https://arxiv.org/abs/2310.00793) | ICLR              | [Link](https://github.com/Juanhui28/HeaRT)                   |
 | 2024 | [Hierarchical Position Embedding of Graphs with Landmarks and Clustering for Link Prediction](https://arxiv.org/abs/2402.08174) | WWW               | [Link](https://github.com/kmswin1/HPLC)                      |
-| 2024 | Decoupled Variational Graph Autoencoder for Link Prediction  | WWW               | Link                                                         |
+| 2024 | [Decoupled Variational Graph Autoencoder for Link Prediction](https://dl.acm.org/doi/abs/10.1145/3589334.3645601) | WWW               | [Link](https://github.com/yoonsikcho/d-vgae)                 |
 | 2024 | [Diffusion-based Negative Sampling on Graphs for Link Prediction](https://arxiv.org/abs/2403.17259) | WWW               | [Link](https://github.com/ntkien1904/dmns)                   |
 | 2024 | [Learning Scalable Structural Representations for Link Prediction with Bloom Signatures](https://arxiv.org/abs/2312.16784) | WWW               | [Link](https://github.com/VeritasYin/BloomSign)              |
 | 2024 | [Link Prediction in Multilayer Networks via Cross-Network Embedding](https://ojs.aaai.org/index.php/AAAI/article/view/28742) | AAAI              | Link                                                         |
@@ -108,7 +108,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 
 | Year | Title                                                        | Venue             | Code                                                         |
 | ---- | ------------------------------------------------------------ | ----------------- | ------------------------------------------------------------ |
-| 2024 | Link Prediction on Multilayer Networks through Learning of Within-Layer and Across-Layer Node-Pair Structural Features and Node Embedding Similarity | WWW               | Link                                                         |
+| 2024 | [Link Prediction on Multilayer Networks through Learning of Within-Layer and Across-Layer Node-Pair Structural Features and Node Embedding Similarity](https://dl.acm.org/doi/abs/10.1145/3589334.3645646) | WWW               | [Link](https://mlnteam-unical.github.io/resources/)          |
 | 2023 | [PaGE-Link: Path-based Graph Neural Network Explanation for Heterogeneous Link Prediction](https://arxiv.org/abs/2302.12465) | WWW               | [Link](https://github.com/amazon-science/page-link-path-based-gnn-explanation) |
 | 2023 | [Link Prediction on Latent Heterogeneous Graphs](https://arxiv.org/abs/2302.10432) | WWW               | [Link](https://github.com/ntkien1904/LHGNN)                  |
 | 2023 | [Graph2Feat: Inductive Link Prediction via Knowledge Distillation](https://dl.acm.org/doi/10.1145/3543873.3587596) | WWW-C             | [Link](https://github.com/AhmedESamy/Graph2Feat)             |
@@ -182,9 +182,9 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 
 | Year | Title                                                        | Venue     | Code                                                         |
 | ---- | ------------------------------------------------------------ | --------- | ------------------------------------------------------------ |
-| 2024 | [Rethinking Complex Queries on Knowledge Graphs with Neural Link Predictors](https://arxiv.org/abs/2304.07063) | ICLR      | Link                                                         |
-| 2024 | Using Model Calibration to Evaluate Link Prediction in Knowledge Graphs | WWW       | Link                                                         |
-| 2024 | UniLP: Unified Topology-aware Generative Framework for Link Prediction in Knowledge Graph | WWW       | [Link](https://github.com/LB0828/UniLP)                      |
+| 2024 | [Rethinking Complex Queries on Knowledge Graphs with Neural Link Predictors](https://arxiv.org/abs/2304.07063) | ICLR      | [Link](https://github.com/HKUST-KnowComp/FIT)                |
+| 2024 | [Using Model Calibration to Evaluate Link Prediction in Knowledge Graphs](https://dl.acm.org/doi/abs/10.1145/3589334.3645506) | WWW       | [Link](https://github.com/nari97/WWW2024_Model_Calibration)  |
+| 2024 | [UniLP: Unified Topology-aware Generative Framework for Link Prediction in Knowledge Graph](https://dl.acm.org/doi/10.1145/3589334.3645592) | WWW       | [Link](https://github.com/LB0828/UniLP)                      |
 | 2024 | [Robust Link Prediction over Noisy Hyper-Relational Knowledge Graphs via Active Learning](https://www.fst.um.edu.mo/personal/wp-content/uploads/2024/02/2024_WWW_NYLON.pdf) | WWW       | [Link](https://github.com/UM-Data-Intelligence-Lab/NYLON_code) |
 | 2024 | [Revisiting Document-Level Relation Extraction with Context-Guided Link Prediction](https://arxiv.org/abs/2401.11800) | AAAI      | [Link](https://github.com/kracr/document-level-relation-extraction) |
 | 2024 | Inductive Link Prediction for Sequential-emerging Knowledge Graph | ICDE      | Link                                                         |
