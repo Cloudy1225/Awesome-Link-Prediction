@@ -20,6 +20,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 
 | Year | Title                                                        | Venue             | Code                                                         |
 | ---- | ------------------------------------------------------------ | ----------------- | ------------------------------------------------------------ |
+| 2024 | Heuristic Learning with Graph Neural Networks: A Unified Framework for Link Prediction | KDD               | Link                                                         |
 | 2024 | [Networked Inequality: Preferential Attachment Bias in Graph Neural Network Link Prediction](https://arxiv.org/abs/2309.17417) | ICML              | [Link](https://github.com/ArjunSubramonian/link_bias_amplification) |
 | 2024 | [A Topological Perspective on Demystifying GNN-Based Link Prediction Performance](https://arxiv.org/abs/2310.04612) | ICLR              | [Link](https://github.com/YuWVandy/Topo_LP_GNN)              |
 | 2024 | [Neural Common Neighbor with Completion for Link Prediction](https://arxiv.org/abs/2302.00890) | ICLR              | [Link](https://github.com/GraphPKU/NeuralCommonNeighbor)     |
@@ -41,6 +42,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 | 2023 | [Linkless Link Prediction via Relational Distillation](https://arxiv.org/abs/2210.05801) | ICML              | [Link](https://github.com/snap-research/linkless-link-prediction/) |
 | 2023 | [Graph Neural Networks for Link Prediction with Subgraph Sketching](https://arxiv.org/abs/2209.15486) | ICLR              | [Link](https://github.com/melifluos/subgraph-sketching)      |
 | 2023 | [Link Prediction with Non-Contrastive Learning](https://arxiv.org/abs/2211.14394) | ICLR              | [Link](https://github.com/snap-research/non-contrastive-link-prediction) |
+| 2023 | [Rethinking Higher-order Representation Learning with Graph Neural Networks](https://openreview.net/forum?id=2OyoYw4InI) | LoG               | [Link](https://openreview.net/attachment?id=2OyoYw4InI&name=supplementary_materials) |
 | 2023 | [DotHash: Estimating Set Similarity Metrics for Link Prediction and Document Deduplication](https://arxiv.org/abs/2305.17310) | KDD               | [Link](https://github.com/mikeheddes/dothash)                |
 | 2023 | [xGCN: An Extreme Graph Convolutional Network for Large-scale Social Link Prediction](https://dl.acm.org/doi/10.1145/3543507.3583340) | WWW               | [Link](https://github.com/xiransong/xGCN)                    |
 | 2023 | [Multi-head Variational Graph Autoencoder Constrained by Sum-product Networks](https://dl.acm.org/doi/10.1145/3543507.3583517) | WWW               | Link                                                         |
