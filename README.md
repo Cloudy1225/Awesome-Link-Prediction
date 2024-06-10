@@ -1,6 +1,6 @@
 # Awesome Link Prediction
 
-Link Prediction (LP) attempts to predict unobserved edges in a graph. It has been adopted in many applications including recommender systems, social networks, knowledge graphs, and drug discovery. We collect papers published at TPAMI, NIPS, ICML, ICLR, WWW, WSDM, LoG, KDD, CIKM, TKDE, AAAI, IJCAI, ECML/PKDD, ICDM, SIGIR, ICDE, INFOCOM, TNNLS, TKDD, ECAI, DASSFA, ICASSP, TMLR, Pattern Recognition and so on.
+Link Prediction (LP) attempts to predict unobserved edges in a graph. It has been adopted in many applications including recommender systems, social networks, knowledge graphs, and drug discovery. We collect papers published at TPAMI, NIPS, ICML, ICLR, WWW, WSDM, LoG, KDD, CIKM, TKDE, AAAI, IJCAI, ECML/PKDD, ICDM, SIGIR, ICDE, INFOCOM, ACL, TNNLS, TKDD, ECAI, DASSFA, ICASSP, TMLR, Pattern Recognition and so on.
 
 
 
@@ -111,6 +111,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 | Year | Title                                                        | Venue             | Code                                                         |
 | ---- | ------------------------------------------------------------ | ----------------- | ------------------------------------------------------------ |
 | 2024 | [Link Prediction on Multilayer Networks through Learning of Within-Layer and Across-Layer Node-Pair Structural Features and Node Embedding Similarity](https://dl.acm.org/doi/abs/10.1145/3589334.3645646) | WWW               | [Link](https://mlnteam-unical.github.io/resources/)          |
+| 2024 | [LPNL: Scalable Link Prediction with Large Language Models](https://arxiv.org/abs/2401.13227) | ACL               | Link                                                         |
 | 2023 | [PaGE-Link: Path-based Graph Neural Network Explanation for Heterogeneous Link Prediction](https://arxiv.org/abs/2302.12465) | WWW               | [Link](https://github.com/amazon-science/page-link-path-based-gnn-explanation) |
 | 2023 | [Link Prediction on Latent Heterogeneous Graphs](https://arxiv.org/abs/2302.10432) | WWW               | [Link](https://github.com/ntkien1904/LHGNN)                  |
 | 2023 | [Graph2Feat: Inductive Link Prediction via Knowledge Distillation](https://dl.acm.org/doi/10.1145/3543873.3587596) | WWW-C             | [Link](https://github.com/AhmedESamy/Graph2Feat)             |
