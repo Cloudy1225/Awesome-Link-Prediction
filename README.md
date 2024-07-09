@@ -20,7 +20,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 
 | Year | Title                                                        | Venue             | Code                                                         |
 | ---- | ------------------------------------------------------------ | ----------------- | ------------------------------------------------------------ |
-| 2024 | Heuristic Learning with Graph Neural Networks: A Unified Framework for Link Prediction | KDD               | Link                                                         |
+| 2024 | [Heuristic Learning with Graph Neural Networks: A Unified Framework for Link Prediction](https://arxiv.org/abs/2406.07979) | KDD               | [Link](https://github.com/LARS-research/HL-GNN)              |
 | 2024 | [Networked Inequality: Preferential Attachment Bias in Graph Neural Network Link Prediction](https://arxiv.org/abs/2309.17417) | ICML              | [Link](https://github.com/ArjunSubramonian/link_bias_amplification) |
 | 2024 | [A Topological Perspective on Demystifying GNN-Based Link Prediction Performance](https://arxiv.org/abs/2310.04612) | ICLR              | [Link](https://github.com/YuWVandy/Topo_LP_GNN)              |
 | 2024 | [Neural Common Neighbor with Completion for Link Prediction](https://arxiv.org/abs/2302.00890) | ICLR              | [Link](https://github.com/GraphPKU/NeuralCommonNeighbor)     |
