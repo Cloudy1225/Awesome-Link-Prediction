@@ -20,6 +20,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 
 | Year | Title                                                        | Venue             | Code                                                         |
 | ---- | ------------------------------------------------------------ | ----------------- | ------------------------------------------------------------ |
+| 2024 | [LPFormer: An Adaptive Graph Transformer for Link Prediction](https://arxiv.org/abs/2310.11009) | KDD               | [Link](https://github.com/HarryShomer/LPFormer)              |
 | 2024 | [Heuristic Learning with Graph Neural Networks: A Unified Framework for Link Prediction](https://arxiv.org/abs/2406.07979) | KDD               | [Link](https://github.com/LARS-research/HL-GNN)              |
 | 2024 | [Networked Inequality: Preferential Attachment Bias in Graph Neural Network Link Prediction](https://arxiv.org/abs/2309.17417) | ICML              | [Link](https://github.com/ArjunSubramonian/link_bias_amplification) |
 | 2024 | [A Topological Perspective on Demystifying GNN-Based Link Prediction Performance](https://arxiv.org/abs/2310.04612) | ICLR              | [Link](https://github.com/YuWVandy/Topo_LP_GNN)              |
@@ -30,7 +31,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 | 2024 | [Diffusion-based Negative Sampling on Graphs for Link Prediction](https://arxiv.org/abs/2403.17259) | WWW               | [Link](https://github.com/ntkien1904/dmns)                   |
 | 2024 | [Learning Scalable Structural Representations for Link Prediction with Bloom Signatures](https://arxiv.org/abs/2312.16784) | WWW               | [Link](https://github.com/VeritasYin/BloomSign)              |
 | 2024 | [Structural Information Enhanced Graph Representation for Link Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/29417) | AAAI              | Link                                                         |
-| 2024 | Differentially Private Graph Neural Networks for Link Prediction | ICDE              | Link                                                         |
+| 2024 | [Differentially Private Graph Neural Networks for Link Prediction](https://ieeexplore.ieee.org/document/10597978) | ICDE              | [Link](https://github.com/marlowe518/Awesome-Differential-Privacy-and-Meachine-Learning/tree/20230731/GNN/differentially_private_link_prediction)                                                         |
 | 2024 | [Not All Negatives Are Worth Attending to: Meta-Bootstrapping Negative Sampling Framework for Link Prediction](https://arxiv.org/abs/2312.04815) | WSDM              | Link                                                         |
 | 2024 | [Pitfalls in Link Prediction with Graph Neural Networks: Understanding the Impact of Target-link Inclusion & Better Practices](https://arxiv.org/abs/2306.00899) | WSDM              | Link                                                         |
 | 2024 | [Asymmetric Learning for Graph Neural Network based Link Prediction](https://arxiv.org/abs/2303.00170) | TKDD              | Link                                                         |
