@@ -20,6 +20,8 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 
 | Year | Title                                                        | Venue             | Code                                                         |
 | ---- | ------------------------------------------------------------ | ----------------- | ------------------------------------------------------------ |
+| 2024 | [Conformalized Link Prediction on Graph Neural Networks](https://arxiv.org/abs/2406.18763) | KDD               | [Link](https://github.com/Aliciaa-svg/CLP)                   |
+| 2024 | [Optimizing Long-tailed Link Prediction in Graph Neural Networks through Structure Representation Enhancement](https://arxiv.org/abs/2407.20499) | KDD               | Link                                                         |
 | 2024 | [LPFormer: An Adaptive Graph Transformer for Link Prediction](https://arxiv.org/abs/2310.11009) | KDD               | [Link](https://github.com/HarryShomer/LPFormer)              |
 | 2024 | [Heuristic Learning with Graph Neural Networks: A Unified Framework for Link Prediction](https://arxiv.org/abs/2406.07979) | KDD               | [Link](https://github.com/LARS-research/HL-GNN)              |
 | 2024 | [Networked Inequality: Preferential Attachment Bias in Graph Neural Network Link Prediction](https://arxiv.org/abs/2309.17417) | ICML              | [Link](https://github.com/ArjunSubramonian/link_bias_amplification) |
@@ -134,6 +136,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 
 | Year | Title                                                        | Venue  |                                                Code |
 | ---- | ------------------------------------------------------------ | ------ | --------------------------------------------------: |
+| 2024 | [Co-Neighbor Encoding Schema: A Light-cost Structure Encoding Method for Dynamic Link Prediction](https://arxiv.org/abs/2407.20871) | KDD     | [Link](https://github.com/ckpassenger/DyGLib_CNEN/tree/CNEN) |
 | 2024 | [FreeDyG: Frequency Enhanced Continuous-Time Dynamic Graph Model for Link Prediction](https://openreview.net/forum?id=82Mc5ilInM) | ICLR   |         [Link](https://github.com/Tianxzzz/FreeDyG) |
 | 2024 | [Spear and Shield: Adversarial Attacks and Defense Methods for Model-Based Link Prediction on Continuous-Time Dynamic Graphs](https://arxiv.org/abs/2308.10779) | AAAI   |  [Link](https://github.com/wooner49/T-spear-shield) |
 | 2023 | [An Attentional Multi-scale Co-evolving Model for Dynamic Link Prediction](https://dl.acm.org/doi/10.1145/3543507.3583396) | WWW    |  [Link](https://github.com/tsinghua-fib-lab/AMCNet) |
@@ -187,6 +190,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 
 | Year | Title                                                        | Venue     | Code                                                         |
 | ---- | ------------------------------------------------------------ | --------- | ------------------------------------------------------------ |
+| 2024 | Causal Subgraph Learning for Generalizable Inductive Relation Prediction | KDD       | Link                                                         |
 | 2024 | [Rethinking Complex Queries on Knowledge Graphs with Neural Link Predictors](https://arxiv.org/abs/2304.07063) | ICLR      | [Link](https://github.com/HKUST-KnowComp/FIT)                |
 | 2024 | [Using Model Calibration to Evaluate Link Prediction in Knowledge Graphs](https://dl.acm.org/doi/abs/10.1145/3589334.3645506) | WWW       | [Link](https://github.com/nari97/WWW2024_Model_Calibration)  |
 | 2024 | [UniLP: Unified Topology-aware Generative Framework for Link Prediction in Knowledge Graph](https://dl.acm.org/doi/10.1145/3589334.3645592) | WWW       | [Link](https://github.com/LB0828/UniLP)                      |
@@ -236,7 +240,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 
 
 
-### Recommender System
+## Recommender System
 
 | Year | Title                                                        | Venue | Code                                                         |
 | ---- | ------------------------------------------------------------ | ----- | ------------------------------------------------------------ |
