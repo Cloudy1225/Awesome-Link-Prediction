@@ -190,13 +190,13 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 
 | Year | Title                                                        | Venue     | Code                                                         |
 | ---- | ------------------------------------------------------------ | --------- | ------------------------------------------------------------ |
-| 2024 | Causal Subgraph Learning for Generalizable Inductive Relation Prediction | KDD       | Link                                                         |
+| 2024 | [Causal Subgraph Learning for Generalizable Inductive Relation Prediction](https://dl.acm.org/doi/10.1145/3637528.3671972) | KDD       | Link                                                         |
 | 2024 | [Rethinking Complex Queries on Knowledge Graphs with Neural Link Predictors](https://arxiv.org/abs/2304.07063) | ICLR      | [Link](https://github.com/HKUST-KnowComp/FIT)                |
 | 2024 | [Using Model Calibration to Evaluate Link Prediction in Knowledge Graphs](https://dl.acm.org/doi/abs/10.1145/3589334.3645506) | WWW       | [Link](https://github.com/nari97/WWW2024_Model_Calibration)  |
 | 2024 | [UniLP: Unified Topology-aware Generative Framework for Link Prediction in Knowledge Graph](https://dl.acm.org/doi/10.1145/3589334.3645592) | WWW       | [Link](https://github.com/LB0828/UniLP)                      |
 | 2024 | [Robust Link Prediction over Noisy Hyper-Relational Knowledge Graphs via Active Learning](https://www.fst.um.edu.mo/personal/wp-content/uploads/2024/02/2024_WWW_NYLON.pdf) | WWW       | [Link](https://github.com/UM-Data-Intelligence-Lab/NYLON_code) |
 | 2024 | [Revisiting Document-Level Relation Extraction with Context-Guided Link Prediction](https://arxiv.org/abs/2401.11800) | AAAI      | [Link](https://github.com/kracr/document-level-relation-extraction) |
-| 2024 | Inductive Link Prediction for Sequential-emerging Knowledge Graph | ICDE      | Link                                                         |
+| 2024 | [Inductive Link Prediction for Sequential-emerging Knowledge Graph](https://ieeexplore.ieee.org/document/10637914) | ICDE      | [Link](https://github.com/Ninecl/ISE2)                                                         |
 | 2023 | [A Theory of Link Prediction via Relational Weisfeiler-Leman on Knowledge Graphs](https://arxiv.org/abs/2302.02209) | NIPS      | [Link](https://github.com/HxyScotthuang/CMPNN)               |
 | 2023 | [Adapting Neural Link Predictors for Data-Efficient Complex Query Answering](https://arxiv.org/abs/2301.12313) | NIPS      | Link                                                         |
 | 2023 | [Multi-Grained Multimodal Interaction Network for Entity Linking](https://arxiv.org/abs/2307.09721) | KDD       | [Link](https://github.com/pengfei-luo/MIMIC)                 |
