@@ -113,6 +113,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 
 | Year | Title                                                        | Venue             | Code                                                         |
 | ---- | ------------------------------------------------------------ | ----------------- | ------------------------------------------------------------ |
+| 2024 | [Paths2Pair: Meta-path Based Link Prediction in Billion-Scale Commercial Heterogeneous Graphs](https://dl.acm.org/doi/10.1145/3637528.3671563) | KDD               | [Link](https://github.com/JQHang/Paths2Pair)                 |
 | 2024 | [Link Prediction on Multilayer Networks through Learning of Within-Layer and Across-Layer Node-Pair Structural Features and Node Embedding Similarity](https://dl.acm.org/doi/abs/10.1145/3589334.3645646) | WWW               | [Link](https://mlnteam-unical.github.io/resources/)          |
 | 2024 | [LPNL: Scalable Link Prediction with Large Language Models](https://arxiv.org/abs/2401.13227) | ACL               | Link                                                         |
 | 2024 | [Link Prediction in Multilayer Networks via Cross-Network Embedding](https://ojs.aaai.org/index.php/AAAI/article/view/28742) | AAAI              | Link                                                         |
