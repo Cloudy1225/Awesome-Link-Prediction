@@ -10,6 +10,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 
 | Year | Title                                                        | Venue             | Code                                          |
 | ---- | ------------------------------------------------------------ | ----------------- | --------------------------------------------- |
+| 2024 | [MOTI$\mathcal{V}\mathcal{E}$: A Drug-Target Interaction Graph For Inductive Link Prediction](https://arxiv.org/abs/2406.08649) | NIPS              | [Link](https://github.com/carpenter-singh-lab/motive) |
 | 2023 | [Temporal Link Prediction: A Unified Framework, Taxonomy, and Review](https://arxiv.org/abs/2210.08765) | ACM Comput. Surv. | [Link](https://github.com/KuroginQin/OpenTLP) |
 | 2023 | [Evaluating Graph Neural Networks for Link Prediction: Current Pitfalls and New Benchmarking](https://arxiv.org/abs/2306.10453) | NIPS              | [Link](https://github.com/Juanhui28/HeaRT)    |
 | 2022 | [Towards Better Evaluation for Dynamic Link Prediction](https://arxiv.org/abs/2207.10128) | NIPS              | [Link](https://github.com/fpour/DGB)          |
@@ -20,6 +21,10 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 
 | Year | Title                                                        | Venue             | Code                                                         |
 | ---- | ------------------------------------------------------------ | ----------------- | ------------------------------------------------------------ |
+| 2024 | [Pure Message Passing Can Estimate Common Neighbor for Link Prediction](https://arxiv.org/abs/2309.00976) | NIPS              | Link                                                         |
+| 2024 | [On the Impact of Feature Heterophily on Link Prediction with Graph Neural Networks](https://arxiv.org/abs/2409.17475) | NIPS              | Link                                                         |
+| 2024 | [Mixture of Link Predictors](https://arxiv.org/abs/2402.08583) | NIPS              | Link                                                         |
+| 2024 | PageRank Bandits for Link Prediction                         | NIPS              | Link                                                         |
 | 2024 | [Conformalized Link Prediction on Graph Neural Networks](https://arxiv.org/abs/2406.18763) | KDD               | [Link](https://github.com/Aliciaa-svg/CLP)                   |
 | 2024 | [Optimizing Long-tailed Link Prediction in Graph Neural Networks through Structure Representation Enhancement](https://arxiv.org/abs/2407.20499) | KDD               | Link                                                         |
 | 2024 | [LPFormer: An Adaptive Graph Transformer for Link Prediction](https://arxiv.org/abs/2310.11009) | KDD               | [Link](https://github.com/HarryShomer/LPFormer)              |
@@ -36,6 +41,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 | 2024 | [Differentially Private Graph Neural Networks for Link Prediction](https://ieeexplore.ieee.org/document/10597978) | ICDE              | [Link](https://github.com/marlowe518/Awesome-Differential-Privacy-and-Meachine-Learning/tree/20230731/GNN/differentially_private_link_prediction)                                                         |
 | 2024 | [Not All Negatives Are Worth Attending to: Meta-Bootstrapping Negative Sampling Framework for Link Prediction](https://arxiv.org/abs/2312.04815) | WSDM              | Link                                                         |
 | 2024 | [Pitfalls in Link Prediction with Graph Neural Networks: Understanding the Impact of Target-link Inclusion & Better Practices](https://arxiv.org/abs/2306.00899) | WSDM              | Link                                                         |
+| 2024 | [Link Prediction Without Learning](https://hal.science/hal-04643971) | ECAI              | [Link](https://github.com/simondelarue/link-prediction-without-learning) |
 | 2024 | [Asymmetric Learning for Graph Neural Network based Link Prediction](https://arxiv.org/abs/2303.00170) | TKDD              | Link                                                         |
 | 2023 | [Evaluating Graph Neural Networks for Link Prediction: Current Pitfalls and New Benchmarking](https://arxiv.org/abs/2306.10453) | NIPS              | [Link](https://github.com/Juanhui28/HeaRT)                   |
 | 2023 | [Combating Bilateral Edge Noise for Robust Link Prediction](https://arxiv.org/abs/2311.01196) | NIPS              | [Link](https://github.com/AndrewZhou924/RGIB)                |
@@ -137,6 +143,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 
 | Year | Title                                                        | Venue  |                                                Code |
 | ---- | ------------------------------------------------------------ | ------ | --------------------------------------------------: |
+| 2024 | Improving Temporal Link Prediction via Temporal Walk Matrix Projection | NIPS    | Link                                                         |
 | 2024 | [Co-Neighbor Encoding Schema: A Light-cost Structure Encoding Method for Dynamic Link Prediction](https://arxiv.org/abs/2407.20871) | KDD     | [Link](https://github.com/ckpassenger/DyGLib_CNEN/tree/CNEN) |
 | 2024 | [FreeDyG: Frequency Enhanced Continuous-Time Dynamic Graph Model for Link Prediction](https://openreview.net/forum?id=82Mc5ilInM) | ICLR   |         [Link](https://github.com/Tianxzzz/FreeDyG) |
 | 2024 | [Spear and Shield: Adversarial Attacks and Defense Methods for Model-Based Link Prediction on Continuous-Time Dynamic Graphs](https://arxiv.org/abs/2308.10779) | AAAI   |  [Link](https://github.com/wooner49/T-spear-shield) |
