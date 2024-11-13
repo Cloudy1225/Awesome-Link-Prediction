@@ -1,6 +1,6 @@
 # Awesome Link Prediction
 
-Link Prediction (LP) attempts to predict unobserved edges in a graph. It has been adopted in many applications including recommender systems, social networks, knowledge graphs, and drug discovery. We collect papers published at TPAMI, NIPS, ICML, ICLR, WWW, WSDM, LoG, KDD, CIKM, TKDE, AAAI, IJCAI, ECML/PKDD, ICDM, SIGIR, ICDE, INFOCOM, ACL, TNNLS, TKDD, ECAI, DASSFA, ICASSP, TMLR, Pattern Recognition and so on.
+Link Prediction (LP) attempts to predict unobserved edges in a graph. It has been adopted in many applications including recommender systems, social networks, knowledge graphs, and drug discovery. We collect papers published at TPAMI, NIPS, ICML, ICLR, WWW, WSDM, LoG, KDD, VLDB, CIKM, TKDE, AAAI, IJCAI, ECML/PKDD, ICDM, SIGIR, ICDE, INFOCOM, ACL, TNNLS, TKDD, ECAI, DASSFA, ICASSP, TMLR, Pattern Recognition and so on.
 
 
 
@@ -11,7 +11,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 | Year | Title                                                        | Venue             | Code                                          |
 | ---- | ------------------------------------------------------------ | ----------------- | --------------------------------------------- |
 | 2024 | [MOTI$\mathcal{V}\mathcal{E}$: A Drug-Target Interaction Graph For Inductive Link Prediction](https://arxiv.org/abs/2406.08649) | NIPS              | [Link](https://github.com/carpenter-singh-lab/motive) |
-| 2023 | [Temporal Link Prediction: A Unified Framework, Taxonomy, and Review](https://arxiv.org/abs/2210.08765) | ACM Comput. Surv. | [Link](https://github.com/KuroginQin/OpenTLP) |
+| 2023 | [Temporal Link Prediction: A Unified Framework, Taxonomy, and Review](https://arxiv.org/abs/2210.08765) | CSUR | [Link](https://github.com/KuroginQin/OpenTLP) |
 | 2023 | [Evaluating Graph Neural Networks for Link Prediction: Current Pitfalls and New Benchmarking](https://arxiv.org/abs/2306.10453) | NIPS              | [Link](https://github.com/Juanhui28/HeaRT)    |
 | 2022 | [Towards Better Evaluation for Dynamic Link Prediction](https://arxiv.org/abs/2207.10128) | NIPS              | [Link](https://github.com/fpour/DGB)          |
 
@@ -42,6 +42,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 | 2024 | [Not All Negatives Are Worth Attending to: Meta-Bootstrapping Negative Sampling Framework for Link Prediction](https://arxiv.org/abs/2312.04815) | WSDM              | Link                                                         |
 | 2024 | [Pitfalls in Link Prediction with Graph Neural Networks: Understanding the Impact of Target-link Inclusion & Better Practices](https://arxiv.org/abs/2306.00899) | WSDM              | [Link](https://github.com/jwzhi/SpotTarget)                  |
 | 2024 | [Link Prediction Without Learning](https://hal.science/hal-04643971) | ECAI              | [Link](https://github.com/simondelarue/link-prediction-without-learning) |
+| 2024 | [Efficient Link Prediction via GNN Layers Induced by Negative Sampling](https://ieeexplore.ieee.org/document/10716808) | TKDE              | [Link](https://github.com/yxzwang/SubmissionverOfYinYanGNN)  |
 | 2024 | [Asymmetric Learning for Graph Neural Network based Link Prediction](https://arxiv.org/abs/2303.00170) | TKDD              | Link                                                         |
 | 2023 | [Evaluating Graph Neural Networks for Link Prediction: Current Pitfalls and New Benchmarking](https://arxiv.org/abs/2306.10453) | NIPS              | [Link](https://github.com/Juanhui28/HeaRT)                   |
 | 2023 | [Combating Bilateral Edge Noise for Robust Link Prediction](https://arxiv.org/abs/2311.01196) | NIPS              | [Link](https://github.com/AndrewZhou924/RGIB)                |
@@ -75,6 +76,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 | 2022 | [Flashlight: Scalable Link Prediction with Effective Decoders](https://arxiv.org/abs/2209.10100) | LoG  | Link                                         |
 | 2022 | [Effective Higher-order Link Prediction and Reconstruction from Simplicial Complex Embeddings](https://openreview.net/forum?id=UiBiLRXR0G) | LoG               | [Link](https://github.com/simonepiaggesi/simplex2pred)       |
 | 2022 | [Similarity-based Link Prediction from Modular Compression of Network Flows](https://arxiv.org/abs/2208.14220) | LoG               | [Link](https://github.com/mapequation/map-equation-similarity) |
+| 2022 | [Algorithm and System Co-design for Efficient Subgraph-based Graph Representation Learning](https://arxiv.org/abs/2202.13538) | VLDB              | [Link](https://github.com/Graph-COM/SUREL) |
 | 2022 | [Deepened Graph Auto-Encoders Help Stabilize and Enhance Link Prediction](https://arxiv.org/abs/2103.11414) | IJCAI             | [Link](https://github.com/xinxingwu-uk/DGAE)                 |
 | 2022 | [Multi-Scale Variational Graph AutoEncoder for Link Prediction](https://dl.acm.org/doi/abs/10.1145/3488560.3498531) | WSDM              | Link                                                         |
 | 2022 | [RelpNet: Relation-based Link Prediction Neural Network](https://dl.acm.org/doi/10.1145/3511808.3557430) | CIKM              | Link                                                         |
@@ -97,6 +99,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 | 2021 | [From Closing Triangles to Higher-Order Motif Closures for Better Unsupervised Online Link Prediction](https://dl.acm.org/doi/abs/10.1145/3459637.3481920) | CIKM              | Link                                                         |
 | 2021 | [Inductive Link Prediction with Interactive Structure Learning on Attributed Graph](https://link.springer.com/chapter/10.1007/978-3-030-86520-7_24) | ECML/PKDD         | Link                                                         |
 | 2021 | [Neighborhood Attention Networks With Adversarial Learning for Link Prediction](https://ieeexplore.ieee.org/document/9174790) | TNNLS             | Link                                                         |
+| 2020 | [Distance Encoding: Design Provably More Powerful Neural Networks for Graph Representation Learning](https://arxiv.org/abs/2009.00142) | NIPS              | [Link](https://github.com/snap-stanford/distance-encoding)   |
 | 2020 | [Understanding Negative Sampling in Graph Representation Learning](https://arxiv.org/abs/2005.09863) | KDD               | [Link](https://github.com/THUDM/MCNS)                        |
 | 2020 | [Feature Fusion Based Subgraph Classification for Link Prediction](https://dl.acm.org/doi/10.1145/3340531.3411966) | CIKM              | Link                                                         |
 | 2020 | [Hyper-Substructure Enhanced Link Predictor](https://dl.acm.org/doi/10.1145/3340531.3412096) | CIKM              | Link                                                         |
