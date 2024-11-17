@@ -21,6 +21,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 
 | Year | Title                                                        | Venue             | Code                                                         |
 | ---- | ------------------------------------------------------------ | ----------------- | ------------------------------------------------------------ |
+| 2024 | [Sub-graph Based Diffusion Model for Link Prediction](https://arxiv.org/abs/2409.08487) | LoG               | Link                                                         |
 | 2024 | [Pure Message Passing Can Estimate Common Neighbor for Link Prediction](https://arxiv.org/abs/2309.00976) | NIPS              | [Link](https://github.com/Barcavin/efficient-node-labelling) |
 | 2024 | [On the Impact of Feature Heterophily on Link Prediction with Graph Neural Networks](https://arxiv.org/abs/2409.17475) | NIPS              | Link                                                         |
 | 2024 | [Mixture of Link Predictors](https://arxiv.org/abs/2402.08583) | NIPS              | Link                                                         |
@@ -69,6 +70,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 | 2023 | [Inherent Limits on Topology-Based Link Prediction](https://arxiv.org/abs/2301.08792) | TMLR              | [Link](https://github.com/SteveWillowby/Link_Prediction_Limits) |
 | 2023 | [Line Graph Contrastive Learning for Link Prediction](https://arxiv.org/abs/2210.13795) | Pattern Recognit. | [Link](https://github.com/ShilinSun/LGCL)                    |
 | 2022 | [OOD Link Prediction Generalization Capabilities of Message-Passing GNNs in Larger Test Graphs](https://arxiv.org/abs/2205.15117) | NIPS              | [Link](https://github.com/yangzez/OOD-Link-Prediction-Generalization-MPNN) |
+| 2022 | [Geodesic Graph Neural Network for Efficient Graph Representation Learning](https://arxiv.org/abs/2210.02636) | NIPS              | [Link](https://github.com/LechengKong/gdgnn)                 |
 | 2022 | [Learning from Counterfactual Links for Link Prediction](https://arxiv.org/abs/2106.02172) | ICML              | [Link](https://github.com/DM2-ND/CFLP)                       |
 | 2022 | [Neural Link Prediction with Walk Pooling](https://arxiv.org/abs/2110.04375) | ICLR              | [Link](https://github.com/DaDaCheng/WalkPooling)             |
 | 2022 | [Equivariant and Stable Positional Encoding for More Powerful Graph Neural Networks](https://arxiv.org/abs/2203.00199) | ICLR              | [Link](https://github.com/Graph-COM/PEG)                     |
