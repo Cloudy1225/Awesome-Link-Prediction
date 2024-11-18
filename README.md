@@ -24,7 +24,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 | 2024 | [Sub-graph Based Diffusion Model for Link Prediction](https://arxiv.org/abs/2409.08487) | LoG               | Link                                                         |
 | 2024 | [Pure Message Passing Can Estimate Common Neighbor for Link Prediction](https://arxiv.org/abs/2309.00976) | NIPS              | [Link](https://github.com/Barcavin/efficient-node-labelling) |
 | 2024 | [On the Impact of Feature Heterophily on Link Prediction with Graph Neural Networks](https://arxiv.org/abs/2409.17475) | NIPS              | Link                                                         |
-| 2024 | [Mixture of Link Predictors](https://arxiv.org/abs/2402.08583) | NIPS              | Link                                                         |
+| 2024 | [Mixture of Link Predictors on Graphs](https://arxiv.org/abs/2402.08583) | NIPS              | [Link](https://github.com/ml-ml/Link-MoE)                    |
 | 2024 | [PageRank Bandits for Link Prediction](https://arxiv.org/abs/2411.01410) | NIPS              | [Link](https://github.com/jiaruzouu/PRB)                     |
 | 2024 | [Conformalized Link Prediction on Graph Neural Networks](https://arxiv.org/abs/2406.18763) | KDD               | [Link](https://github.com/Aliciaa-svg/CLP)                   |
 | 2024 | [Optimizing Long-tailed Link Prediction in Graph Neural Networks through Structure Representation Enhancement](https://arxiv.org/abs/2407.20499) | KDD               | Link                                                         |
@@ -58,6 +58,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 | 2023 | [xGCN: An Extreme Graph Convolutional Network for Large-scale Social Link Prediction](https://dl.acm.org/doi/10.1145/3543507.3583340) | WWW               | [Link](https://github.com/xiransong/xGCN)                    |
 | 2023 | [Multi-head Variational Graph Autoencoder Constrained by Sum-product Networks](https://dl.acm.org/doi/10.1145/3543507.3583517) | WWW               | Link                                                         |
 | 2023 | [Graph2Feat: Inductive Link Prediction via Knowledge Distillation](https://dl.acm.org/doi/10.1145/3543873.3587596) | WWW-C             | [Link](https://github.com/AhmedESamy/Graph2Feat)             |
+| 2023 | [SUREL+: Moving from Walks to Sets for Scalable Subgraph-based Graph Representation Learning](https://arxiv.org/abs/2303.03379) | VLDB              | [Link](https://github.com/Graph-COM/SUREL_Plus)              |
 | 2023 | [Bring Your Own View: Graph Neural Networks for Link Prediction with Personalized Subgraph Selection](https://arxiv.org/abs/2212.12488) | WSDM              | [Link](https://github.com/qiaoyu-tan/PS2)                    |
 | 2023 | [Beyond Individuals: Modeling Mutual and Multiple Interactions for Inductive Link Prediction between Groups](https://dl.acm.org/doi/10.1145/3539597.3570448) | WSDM              | [Link](https://github.com/yin-gz/group-link-prediction)      |
 | 2023 | [Joint Link Prediction Via Inference from a Model](https://dl.acm.org/doi/abs/10.1145/3583780.3614941) | CIKM              | [Link](https://github.com/parmisnaddaf/Joint-Link-Prediction) |
