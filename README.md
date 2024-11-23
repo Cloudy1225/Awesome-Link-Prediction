@@ -21,7 +21,8 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 
 | Year | Title                                                        | Venue             | Code                                                         |
 | ---- | ------------------------------------------------------------ | ----------------- | ------------------------------------------------------------ |
-| 2024 | [Sub-graph Based Diffusion Model for Link Prediction](https://arxiv.org/abs/2409.08487) | LoG               | Link                                                         |
+| 2024 | [Link Prediction with Untrained Message Passing Layers](https://arxiv.org/abs/2406.16687) | LoG               | Link                                                         |
+| 2024 | [Sub-graph Based Diffusion Model for Link Prediction](https://arxiv.org/abs/2409.08487) | LoG               | [Link](https://github.com/hzlihang99/SGDiff)                 |
 | 2024 | [Pure Message Passing Can Estimate Common Neighbor for Link Prediction](https://arxiv.org/abs/2309.00976) | NIPS              | [Link](https://github.com/Barcavin/efficient-node-labelling) |
 | 2024 | [On the Impact of Feature Heterophily on Link Prediction with Graph Neural Networks](https://arxiv.org/abs/2409.17475) | NIPS              | Link                                                         |
 | 2024 | [Mixture of Link Predictors on Graphs](https://arxiv.org/abs/2402.08583) | NIPS              | [Link](https://github.com/ml-ml/Link-MoE)                    |
