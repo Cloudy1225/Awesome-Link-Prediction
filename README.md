@@ -21,6 +21,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 
 | Year | Title                                                        | Venue             | Code                                                         |
 | ---- | ------------------------------------------------------------ | ----------------- | ------------------------------------------------------------ |
+| 2025 | [Attribute-Enhanced Similarity Ranking for Sparse Link Prediction](https://arxiv.org/abs/2412.00261) | KDD               | Link                                                         |
 | 2025 | [Hyperdimensional Representation Learning for Node Classification and Link Prediction](https://arxiv.org/abs/2402.17073) | WSDM              | [Link](https://github.com/Abhishek-Dalvi410/HDGL)            |
 | 2024 | [Link Prediction with Untrained Message Passing Layers](https://openreview.net/forum?id=IRFfBpbdI9) | LoG               | Link                                                         |
 | 2024 | [Sub-graph Based Diffusion Model for Link Prediction](https://arxiv.org/abs/2409.08487) | LoG               | [Link](https://github.com/hzlihang99/SGDiff)                 |
