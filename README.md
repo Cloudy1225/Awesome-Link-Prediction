@@ -130,6 +130,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 
 | Year | Title                                                        | Venue             | Code                                                         |
 | ---- | ------------------------------------------------------------ | ----------------- | ------------------------------------------------------------ |
+| 2025 | [LUSTER: Link Prediction Utilizing Shared-Latent Space Representation in Multi-Layer Networks](https://openreview.net/forum?id=mfWGm5FeQw) | WWW               | Link                                                         |
 | 2024 | [Paths2Pair: Meta-path Based Link Prediction in Billion-Scale Commercial Heterogeneous Graphs](https://dl.acm.org/doi/10.1145/3637528.3671563) | KDD               | [Link](https://github.com/JQHang/Paths2Pair)                 |
 | 2024 | [Link Prediction on Multilayer Networks through Learning of Within-Layer and Across-Layer Node-Pair Structural Features and Node Embedding Similarity](https://dl.acm.org/doi/abs/10.1145/3589334.3645646) | WWW               | [Link](https://mlnteam-unical.github.io/resources/)          |
 | 2024 | [LPNL: Scalable Link Prediction with Large Language Models](https://arxiv.org/abs/2401.13227) | ACL               | Link                                                         |
@@ -154,7 +155,10 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 
 | Year | Title                                                        | Venue  |                                                Code |
 | ---- | ------------------------------------------------------------ | ------ | --------------------------------------------------: |
-| 2025 | Practicable Black-box Evasion Attacks on Link Prediction in Dynamic Graphs--A Graph Sequential Embedding Method | AAAI    | Link                                                         |
+| 2025 | [On the Cross-Graph Transferability of Dynamic Link Prediction](https://openreview.net/forum?id=dJQ5vj9ol7) | WWW     | Link                                                         |
+| 2025 | [Triangle Matters! TopDyG: Topology-aware Transformer for Link Prediction on Dynamic Graphs](https://openreview.net/forum?id=4ByDbWQ0GA) | WWW     | Link                                                         |
+| 2025 | [Enhancing Cross-domain Link Prediction via Evolution Process Modeling](https://openreview.net/forum?id=31fB9TR7Ku) | WWW     | [Link](https://github.com/weichow23/CrossLink)               |
+| 2025 | [Practicable Black-box Evasion Attacks on Link Prediction in Dynamic Graphs -- A Graph Sequential Embedding Method](https://arxiv.org/abs/2412.13134) | AAAI    | [Link](https://github.com/JetRichardLee/GSE-METP)            |
 | 2024 | [Improving Temporal Link Prediction via Temporal Walk Matrix Projection](https://arxiv.org/abs/2410.04013) | NIPS    | [Link](https://github.com/lxd99/TPNet)                       |
 | 2024 | [Co-Neighbor Encoding Schema: A Light-cost Structure Encoding Method for Dynamic Link Prediction](https://arxiv.org/abs/2407.20871) | KDD     | [Link](https://github.com/ckpassenger/DyGLib_CNEN/tree/CNEN) |
 | 2024 | [FreeDyG: Frequency Enhanced Continuous-Time Dynamic Graph Model for Link Prediction](https://openreview.net/forum?id=82Mc5ilInM) | ICLR   |         [Link](https://github.com/Tianxzzz/FreeDyG) |
@@ -211,6 +215,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 
 | Year | Title                                                        | Venue     | Code                                                         |
 | ---- | ------------------------------------------------------------ | --------- | ------------------------------------------------------------ |
+| 2025 | [HySAE: An Efficient Semantic-Enhanced Representation Learning Model for Knowledge Hypergraph Link Prediction](https://openreview.net/forum?id=OLLYLTb8FC) | WWW       | Link                                                         |
 | 2024 | [Causal Subgraph Learning for Generalizable Inductive Relation Prediction](https://dl.acm.org/doi/10.1145/3637528.3671972) | KDD       | Link                                                         |
 | 2024 | [Rethinking Complex Queries on Knowledge Graphs with Neural Link Predictors](https://arxiv.org/abs/2304.07063) | ICLR      | [Link](https://github.com/HKUST-KnowComp/FIT)                |
 | 2024 | [Using Model Calibration to Evaluate Link Prediction in Knowledge Graphs](https://dl.acm.org/doi/abs/10.1145/3589334.3645506) | WWW       | [Link](https://github.com/nari97/WWW2024_Model_Calibration)  |
