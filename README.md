@@ -24,6 +24,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 | 2025 | [Accurate Link Prediction for Edge-Incomplete Graphs via PU Learning](https://arxiv.org/abs/2405.11911) | AAAI              | [Link](https://github.com/snudatalab/PULL)                   |
 | 2025 | [Attribute-Enhanced Similarity Ranking for Sparse Link Prediction](https://arxiv.org/abs/2412.00261) | KDD               | Link                                                         |
 | 2025 | [Hyperdimensional Representation Learning for Node Classification and Link Prediction](https://arxiv.org/abs/2402.17073) | WSDM              | [Link](https://github.com/Abhishek-Dalvi410/HDGL)            |
+| 2025 | [Norm Augmented Graph AutoEncoders for Link Prediction](https://arxiv.org/abs/2502.05868) | ICASSP            | [Link](https://github.com/Cloudy1225/GAE-NA)                 |
 | 2024 | [Pure Message Passing Can Estimate Common Neighbor for Link Prediction](https://arxiv.org/abs/2309.00976) | NIPS              | [Link](https://github.com/Barcavin/efficient-node-labelling) |
 | 2024 | [On the Impact of Feature Heterophily on Link Prediction with Graph Neural Networks](https://arxiv.org/abs/2409.17475) | NIPS              | Link                                                         |
 | 2024 | [Mixture of Link Predictors on Graphs](https://arxiv.org/abs/2402.08583) | NIPS              | [Link](https://github.com/ml-ml/Link-MoE)                    |
