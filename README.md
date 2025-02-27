@@ -1,6 +1,6 @@
 # Awesome Link Prediction
 
-Link Prediction (LP) attempts to predict unobserved edges in a graph. It has been adopted in many applications including recommender systems, social networks, knowledge graphs, and drug discovery. We collect papers published at TPAMI, NIPS, ICML, ICLR, WWW, WSDM, LoG, KDD, VLDB, CIKM, TKDE, AAAI, IJCAI, ECML/PKDD, ICDM, SIGIR, ICDE, INFOCOM, ACL, TNNLS, TKDD, ECAI, DASSFA, ICASSP, TMLR, Pattern Recognition and so on.
+Link Prediction (LP) attempts to predict unobserved edges in a graph. It has been adopted in many applications including recommender systems, social networks, knowledge graphs, and drug discovery. We collect papers published at TPAMI, NIPS, ICML, ICLR, WWW, WSDM, LoG, KDD, VLDB, CIKM, TKDE, AAAI, IJCAI, ECML/PKDD, AISTATS, ICDM, SIGIR, ICDE, INFOCOM, ACL, TNNLS, TKDD, ECAI, DASFAA, ICASSP, TMLR, Pattern Recognition and so on.
 
 
 
@@ -25,6 +25,8 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 | 2025 | [Attribute-Enhanced Similarity Ranking for Sparse Link Prediction](https://arxiv.org/abs/2412.00261) | KDD               | Link                                                         |
 | 2025 | [Hyperdimensional Representation Learning for Node Classification and Link Prediction](https://arxiv.org/abs/2402.17073) | WSDM              | [Link](https://github.com/Abhishek-Dalvi410/HDGL)            |
 | 2025 | [Norm Augmented Graph AutoEncoders for Link Prediction](https://arxiv.org/abs/2502.05868) | ICASSP            | [Link](https://github.com/Cloudy1225/GAE-NA)                 |
+| 2025 | [Directed Hypergraph Representation Learning for Link Prediction](https://proceedings.mlr.press/v238/ma24b.html) | AISTATS           | [Link](https://github.com/mazitong/DHGNN)                    |
+| 2025 | [Boosting GNN-Based Link Prediction via PU-AUC Optimization](https://ieeexplore.ieee.org/document/10869638) | TKDE              | Link                                                         |
 | 2024 | [Pure Message Passing Can Estimate Common Neighbor for Link Prediction](https://arxiv.org/abs/2309.00976) | NIPS              | [Link](https://github.com/Barcavin/efficient-node-labelling) |
 | 2024 | [On the Impact of Feature Heterophily on Link Prediction with Graph Neural Networks](https://arxiv.org/abs/2409.17475) | NIPS              | Link                                                         |
 | 2024 | [Mixture of Link Predictors on Graphs](https://arxiv.org/abs/2402.08583) | NIPS              | [Link](https://github.com/ml-ml/Link-MoE)                    |
@@ -69,8 +71,8 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 | 2023 | [Joint Link Prediction Via Inference from a Model](https://dl.acm.org/doi/abs/10.1145/3583780.3614941) | CIKM              | [Link](https://github.com/parmisnaddaf/Joint-Link-Prediction) |
 | 2023 | [Non-Negative Matrix Factorization for Link Prediction Preserving Row and Column Spaces](https://ieeexplore.ieee.org/document/10415742) | ICDM              | [Link](https://github.com/AnonSimRank/NMF-CR)                |
 | 2023 | [Enhancing Link Prediction with Self-Discriminating Augmentation for Structure-Aware Contrastive Learning](https://ebooks.iospress.nl/doi/10.3233/FAIA230596) | ECAI              | Link                                                         |
-| 2023 | [Few-Shot Link Prediction for Event-Based Social Networks via Meta-learning](https://link.springer.com/chapter/10.1007/978-3-031-30675-4_3) | DASSFA            | [Link](https://github.com/xizhu1022/FSLP-EBSNs)              |
-| 2023 | [A Graph Embedding Approach for Link Prediction via Triadic Closure Based Direct Aggregation and Weighted Concatenation](https://link.springer.com/chapter/10.1007/978-3-031-30675-4_24) | DASSFA            | Link                                                         |
+| 2023 | [Few-Shot Link Prediction for Event-Based Social Networks via Meta-learning](https://link.springer.com/chapter/10.1007/978-3-031-30675-4_3) | DASFAA            | [Link](https://github.com/xizhu1022/FSLP-EBSNs)              |
+| 2023 | [A Graph Embedding Approach for Link Prediction via Triadic Closure Based Direct Aggregation and Weighted Concatenation](https://link.springer.com/chapter/10.1007/978-3-031-30675-4_24) | DASFAA            | Link                                                         |
 | 2023 | [Elementary Subgraph Features for Link Prediction With Neural Networks](https://ieeexplore.ieee.org/document/9635695) | TKDE              | [Link](https://github.com/fang98/NNESF)                      |
 | 2023 | [You Only Transfer What You Share: Intersection-Induced Graph Transfer Learning for Link Prediction](https://arxiv.org/abs/2302.14189) | TMLR              | Link                                                         |
 | 2023 | [Inherent Limits on Topology-Based Link Prediction](https://arxiv.org/abs/2301.08792) | TMLR              | [Link](https://github.com/SteveWillowby/Link_Prediction_Limits) |
@@ -140,7 +142,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 | 2023 | [Link Prediction on Latent Heterogeneous Graphs](https://arxiv.org/abs/2302.10432) | WWW               | [Link](https://github.com/ntkien1904/LHGNN)                  |
 | 2023 | [Graph2Feat: Inductive Link Prediction via Knowledge Distillation](https://dl.acm.org/doi/10.1145/3543873.3587596) | WWW-C             | [Link](https://github.com/AhmedESamy/Graph2Feat)             |
 | 2023 | [Simplifying Temporal Heterogeneous Network for Continuous-Time Link prediction](https://dl.acm.org/doi/10.1145/3583780.3615059) | CIKM              | [Link](https://github.com/celi52/STHN)                       |
-| 2023 | [FairHELP: Fairness-Aware Heterogeneous Information Network Embedding for Link Prediction](https://link.springer.com/chapter/10.1007/978-3-031-30675-4_22) | DASSFA            | Link                                                         |
+| 2023 | [FairHELP: Fairness-Aware Heterogeneous Information Network Embedding for Link Prediction](https://link.springer.com/chapter/10.1007/978-3-031-30675-4_22) | DASFAA            | Link                                                         |
 | 2023 | [TDAN: Transferable Domain Adversarial Network for Link Prediction in Heterogeneous Social Networks](https://dlnext.acm.org/doi/abs/10.1145/3610229) | TKDD              | Link                                                         |
 | 2023 | [Resisting the Edge-Type Disturbance for Link Prediction in Heterogeneous Networks](https://dl.acm.org/doi/full/10.1145/3614099) | TKDD              | Link                                                         |
 | 2023 | [Neighborhood overlap-aware heterogeneous hypergraph neural network for link prediction](https://www.sciencedirect.com/science/article/pii/S0031320323005162) | Pattern Recognit. | Link                                                         |
