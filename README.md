@@ -1,15 +1,16 @@
 # Awesome Link Prediction
 
-Link Prediction (LP) attempts to predict unobserved edges in a graph. It has been adopted in many applications including recommender systems, social networks, knowledge graphs, and drug discovery. We collect papers published at TPAMI, NIPS, ICML, ICLR, WWW, WSDM, LoG, KDD, VLDB, CIKM, TKDE, AAAI, IJCAI, ECML/PKDD, AISTATS, ICDM, SIGIR, ICDE, INFOCOM, ACL, TNNLS, TKDD, ECAI, DASFAA, ICASSP, TMLR, Pattern Recognition and so on.
+Link Prediction (LP) attempts to predict unobserved edges in a graph. It has been adopted in many applications including recommender systems, social networks, knowledge graphs, and drug discovery. We collect papers published at TPAMI, NIPS, ICML, ICLR, WWW, WSDM, LoG, KDD, VLDB, CIKM, TKDE, AAAI, IJCAI, ECML/PKDD, AISTATS, ICDM, SIGIR, ICDE, INFOCOM, ACL, TNNLS, TKDD, ECAI, DASFAA, ICASSP, TMLR, Nature Communications, Pattern Recognition, Machine Learning and so on.
 
 
 
 
 
-## Survey/Benchmark
+## Survey/Benchmark/Dataset
 
 | Year | Title                                                        | Venue             | Code                                          |
 | ---- | ------------------------------------------------------------ | ----------------- | --------------------------------------------- |
+| 2024 | [A Survey on Hyperlink Prediction](https://ieeexplore.ieee.org/document/10163497) | TNNLS | Link |
 | 2024 | [MOTI$\mathcal{V}\mathcal{E}$: A Drug-Target Interaction Graph For Inductive Link Prediction](https://arxiv.org/abs/2406.08649) | NIPS              | [Link](https://github.com/carpenter-singh-lab/motive) |
 | 2023 | [Temporal Link Prediction: A Unified Framework, Taxonomy, and Review](https://arxiv.org/abs/2210.08765) | CSUR | [Link](https://github.com/KuroginQin/OpenTLP) |
 | 2023 | [Evaluating Graph Neural Networks for Link Prediction: Current Pitfalls and New Benchmarking](https://arxiv.org/abs/2306.10453) | NIPS              | [Link](https://github.com/Juanhui28/HeaRT)    |
@@ -31,6 +32,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 | 2024 | [On the Impact of Feature Heterophily on Link Prediction with Graph Neural Networks](https://arxiv.org/abs/2409.17475) | NIPS              | Link                                                         |
 | 2024 | [Mixture of Link Predictors on Graphs](https://arxiv.org/abs/2402.08583) | NIPS              | [Link](https://github.com/ml-ml/Link-MoE)                    |
 | 2024 | [PageRank Bandits for Link Prediction](https://arxiv.org/abs/2411.01410) | NIPS              | [Link](https://github.com/jiaruzouu/PRB)                     |
+| 2024 | [LinkGPT: Teaching Large Language Models To Predict Missing Links](https://arxiv.org/abs/2406.04640) | NIPS-W            | [Link](https://github.com/twelfth-star/LinkGPT)              |
 | 2024 | [Networked Inequality: Preferential Attachment Bias in Graph Neural Network Link Prediction](https://arxiv.org/abs/2309.17417) | ICML              | [Link](https://github.com/ArjunSubramonian/link_bias_amplification) |
 | 2024 | [A Topological Perspective on Demystifying GNN-Based Link Prediction Performance](https://arxiv.org/abs/2310.04612) | ICLR              | [Link](https://github.com/YuWVandy/Topo_LP_GNN)              |
 | 2024 | [Neural Common Neighbor with Completion for Link Prediction](https://arxiv.org/abs/2302.00890) | ICLR              | [Link](https://github.com/GraphPKU/NeuralCommonNeighbor)     |
@@ -166,6 +168,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 | 2024 | [Co-Neighbor Encoding Schema: A Light-cost Structure Encoding Method for Dynamic Link Prediction](https://arxiv.org/abs/2407.20871) | KDD     | [Link](https://github.com/ckpassenger/DyGLib_CNEN/tree/CNEN) |
 | 2024 | [FreeDyG: Frequency Enhanced Continuous-Time Dynamic Graph Model for Link Prediction](https://openreview.net/forum?id=82Mc5ilInM) | ICLR   |         [Link](https://github.com/Tianxzzz/FreeDyG) |
 | 2024 | [Spear and Shield: Adversarial Attacks and Defense Methods for Model-Based Link Prediction on Continuous-Time Dynamic Graphs](https://arxiv.org/abs/2308.10779) | AAAI   |  [Link](https://github.com/wooner49/T-spear-shield) |
+| 2024 | [Sequential stacking link prediction algorithms for temporal networks](https://www.nature.com/articles/s41467-024-45598-0) | Nature Comm. | [Link](https://github.com/hexie1995/Sequential-Link-Prediction) |
 | 2023 | [An Attentional Multi-scale Co-evolving Model for Dynamic Link Prediction](https://dl.acm.org/doi/10.1145/3543507.3583396) | WWW    |  [Link](https://github.com/tsinghua-fib-lab/AMCNet) |
 | 2023 | [HGWaveNet: A Hyperbolic Graph Neural Network for Temporal Link Prediction](https://arxiv.org/abs/2304.07302) | WWW    | [Link](https://github.com/TaiLvYuanLiang/HGWaveNet) |
 | 2023 | [Expressive and Efficient Representation Learning for Ranking Links in Temporal Graphs](https://dl.acm.org/doi/10.1145/3543507.3583476) | WWW    |          [Link](https://github.com/susheels/tgrank) |
@@ -175,6 +178,8 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 | 2023 | [Graph Sequential Neural ODE Process for Link Prediction on Dynamic and Sparse Graphs](https://arxiv.org/abs/2211.08568) | WSDM   |            [Link](https://github.com/rmanluo/gsnop) |
 | 2023 | [Simplifying Temporal Heterogeneous Network for Continuous-Time Link prediction](https://dl.acm.org/doi/10.1145/3583780.3615059) | CIKM   |              [Link](https://github.com/celi52/STHN) |
 | 2023 | [Temporal and Topological Augmentation-based Cross-view Contrastive Learning Model for Temporal Link Prediction](https://dl.acm.org/doi/abs/10.1145/3583780.3615231) | CIKM   |                                                Link |
+| 2023 | [Temporal graph learning for dynamic link prediction with text in online social networks](https://link.springer.com/article/10.1007/s10994-023-06475-x) | Machine Learning | [Link](https://github.com/manuel-dileo/dynamic-gnn) |
+| 2023 | [DNformer: Temporal Link Prediction with Transfer Learning in Dynamic Networks](https://dl.acm.org/doi/10.1145/3551892) | TKDD | [Link](https://github.com/ACoTAI/DNformer) |
 | 2022 | [TempEL: Linking Dynamically Evolving and Newly Emerging Entities](https://arxiv.org/abs/2302.02500) | NIPS   |    [Link](https://github.com/klimzaporojets/TempEL) |
 | 2022 | [Parameter-free Dynamic Graph Embedding for Link Prediction](https://arxiv.org/abs/2210.08189) | NIPS   |        [Link](https://github.com/FudanCISL/FreeGEM) |
 | 2022 | [Towards Better Evaluation for Dynamic Link Prediction](https://arxiv.org/abs/2207.10128) | NIPS   |                [Link](https://github.com/fpour/DGB) |
