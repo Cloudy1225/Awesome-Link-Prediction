@@ -22,6 +22,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 
 | Year | Title                                                        | Venue             | Code                                                         |
 | ---- | ------------------------------------------------------------ | ----------------- | ------------------------------------------------------------ |
+| 2025 | Open the Eyes of MPNN: Vision Enhances MPNN in Link Prediction | ICML              | Link                                                         |
 | 2025 | [Improving Graph Neural Networks on Multi-node Tasks with the Labeling Trick](https://jmlr.org/papers/v26/23-0560.html) | JMLR              | [Link](https://github.com/GraphPKU/LabelingTrick)            |
 | 2025 | [Accurate Link Prediction for Edge-Incomplete Graphs via PU Learning](https://arxiv.org/abs/2405.11911) | AAAI              | [Link](https://github.com/snudatalab/PULL)                   |
 | 2025 | [Attribute-Enhanced Similarity Ranking for Sparse Link Prediction](https://arxiv.org/abs/2412.00261) | KDD               | Link                                                         |
