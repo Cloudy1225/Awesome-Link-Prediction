@@ -1,6 +1,6 @@
 # Awesome Link Prediction
 
-Link Prediction (LP) attempts to predict unobserved edges in a graph. It has been adopted in many applications including recommender systems, social networks, knowledge graphs, and drug discovery. We collect papers published at JMLR, TPAMI, NIPS, ICML, ICLR, WWW, WSDM, LoG, KDD, VLDB, CIKM, TKDE, AAAI, IJCAI, ECML/PKDD, AISTATS, ICDM, SIGIR, ICDE, INFOCOM, ACL, TNNLS, TKDD, ECAI, DASFAA, ICASSP, TMLR, Nature Communications, Pattern Recognition, Machine Learning and so on.
+Link Prediction (LP) attempts to predict unobserved edges in a graph. It has been adopted in many applications including recommender systems, social networks, knowledge graphs, and drug discovery. We collect papers published at JMLR, TPAMI, NIPS, ICML, ICLR, WWW, WSDM, LoG, KDD, VLDB, CIKM, TKDE, AAAI, IJCAI, ECML/PKDD, AISTATS, ICDM, SIGIR, ICDE, INFOCOM, ACL, TNNLS, TKDD, ECAI, DASFAA, ICASSP, TMLR, Nature Communications, Pattern Recognition, Machine Learning, TBD and so on.
 
 
 
@@ -30,6 +30,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 | 2025 | [Norm Augmented Graph AutoEncoders for Link Prediction](https://arxiv.org/abs/2502.05868) | ICASSP            | [Link](https://github.com/Cloudy1225/GAE-NA)                 |
 | 2025 | [Directed Hypergraph Representation Learning for Link Prediction](https://proceedings.mlr.press/v238/ma24b.html) | AISTATS           | [Link](https://github.com/mazitong/DHGNN)                    |
 | 2025 | [Boosting GNN-Based Link Prediction via PU-AUC Optimization](https://ieeexplore.ieee.org/document/10869638) | TKDE              | Link                                                         |
+| 2025 | [Self-representation-based Generative Graph Neural Networks for End-to-End Link Prediction](https://ieeexplore.ieee.org/abstract/document/10982146) | TBD               | [Link](https://github.com/star4455/GraphLP)                  |
 | 2024 | [Pure Message Passing Can Estimate Common Neighbor for Link Prediction](https://arxiv.org/abs/2309.00976) | NIPS              | [Link](https://github.com/Barcavin/efficient-node-labelling) |
 | 2024 | [On the Impact of Feature Heterophily on Link Prediction with Graph Neural Networks](https://arxiv.org/abs/2409.17475) | NIPS              | Link                                                         |
 | 2024 | [Mixture of Link Predictors on Graphs](https://arxiv.org/abs/2402.08583) | NIPS              | [Link](https://github.com/ml-ml/Link-MoE)                    |
