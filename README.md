@@ -1,6 +1,6 @@
 # Awesome Link Prediction
 
-Link Prediction (LP) attempts to predict unobserved edges in a graph. It has been adopted in many applications including recommender systems, social networks, knowledge graphs, and drug discovery. We collect papers published at JMLR, TPAMI, NIPS, ICML, ICLR, WWW, WSDM, LoG, KDD, VLDB, CIKM, TKDE, AAAI, IJCAI, ECML/PKDD, AISTATS, ICDM, SIGIR, ICDE, INFOCOM, ACL, TNNLS, TKDD, ECAI, DASFAA, ICASSP, TMLR, Nature Communications, Pattern Recognition, Machine Learning, TBD and so on.
+Link Prediction (LP) attempts to predict unobserved edges in a graph. It has been adopted in many applications including recommender systems, social networks, knowledge graphs, and drug discovery. We collect papers published at JMLR, TPAMI, NIPS, ICML, ICLR, WWW, WSDM, LoG, KDD, VLDB, CIKM, TKDE, AAAI, IJCAI, ECML/PKDD, AISTATS, ICDM, SIGIR, ICDE, INFOCOM, ACL, TNNLS, TKDD, ECAI, DASFAA, ICASSP, TMLR, Nature Communications, Pattern Recognition, Machine Learning,  Information Processing and Management, TBD and so on.
 
 
 
@@ -57,6 +57,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 | 2024 | [Link Prediction Without Learning](https://hal.science/hal-04643971) | ECAI              | [Link](https://github.com/simondelarue/link-prediction-without-learning) |
 | 2024 | [Efficient Link Prediction via GNN Layers Induced by Negative Sampling](https://ieeexplore.ieee.org/document/10716808) | TKDE              | [Link](https://github.com/yxzwang/SubmissionverOfYinYanGNN)  |
 | 2024 | [Asymmetric Learning for Graph Neural Network based Link Prediction](https://arxiv.org/abs/2303.00170) | TKDD              | Link                                                         |
+| 2024 | [Edge Contrastive Learning for Link Prediction](https://www.sciencedirect.com/science/article/abs/pii/S0306457324002061) | IPM               | Link                                                         |
 | 2023 | [Evaluating Graph Neural Networks for Link Prediction: Current Pitfalls and New Benchmarking](https://arxiv.org/abs/2306.10453) | NIPS              | [Link](https://github.com/Juanhui28/HeaRT)                   |
 | 2023 | [Combating Bilateral Edge Noise for Robust Link Prediction](https://arxiv.org/abs/2311.01196) | NIPS              | [Link](https://github.com/AndrewZhou924/RGIB)                |
 | 2023 | [Cross-links Matter for Link Prediction: Rethinking the Debiased GNN from a Data Perspective](https://papers.nips.cc/paper_files/paper/2023/hash/fba4a59c7a569fce120eea9aa9227052-Abstract-Conference.html) | NIPS              | [Link](https://github.com/CGCL-codes/Cross-links-Bias)       |
