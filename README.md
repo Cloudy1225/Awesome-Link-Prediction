@@ -1,6 +1,6 @@
 # Awesome Link Prediction
 
-Link Prediction (LP) attempts to predict unobserved edges in a graph. It has been adopted in many applications including recommender systems, social networks, knowledge graphs, and drug discovery. We collect papers published at JMLR, TPAMI, NIPS, ICML, ICLR, WWW, WSDM, LoG, KDD, VLDB, CIKM, TKDE, AAAI, IJCAI, ECML/PKDD, AISTATS, ICDM, SIGIR, ICDE, INFOCOM, ACL, TNNLS, TKDD, ECAI, DASFAA, ICASSP, TMLR, Nature Communications, Pattern Recognition, Machine Learning,  Information Processing and Management, TBD and so on.
+Link Prediction (LP) attempts to predict unobserved edges in a graph. It has been adopted in many applications including recommender systems, social networks, knowledge graphs, and drug discovery. We collect papers published at JMLR, TPAMI, NIPS, ICML, ICLR, WWW, WSDM, LoG, KDD, VLDB, CIKM, TKDE, AAAI, IJCAI, ECML/PKDD, AISTATS, ICDM, SIGIR, ICDE, INFOCOM, ACL, TNNLS, TKDD, ECAI, DASFAA, ICASSP, TMLR, Nature Communications, Pattern Recognition, Machine Learning, Information Processing and Management, TBD and so on.
 
 
 
@@ -22,7 +22,9 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 
 | Year | Title                                                        | Venue             | Code                                                         |
 | ---- | ------------------------------------------------------------ | ----------------- | ------------------------------------------------------------ |
-| 2025 | Open the Eyes of MPNN: Vision Enhances MPNN in Link Prediction | ICML              | Link                                                         |
+| 2025 | [Implicit Degree Bias in the Link Rrediction Task](https://arxiv.org/abs/2405.14985) | ICML              | [Link](https://github.com/skojaku/degree-corrected-link-prediction-benchmark) |
+| 2025 | Complete-Tree Space Favors Data-Efficient Link Prediction    | ICML              | Link                                                         |
+| 2025 | [Open the Eyes of MPNN: Vision Enhances MPNN in Link Prediction](https://arxiv.org/abs/2505.08266) | ICML              | Link                                                         |
 | 2025 | [Improving Graph Neural Networks on Multi-node Tasks with the Labeling Trick](https://jmlr.org/papers/v26/23-0560.html) | JMLR              | [Link](https://github.com/GraphPKU/LabelingTrick)            |
 | 2025 | [Accurate Link Prediction for Edge-Incomplete Graphs via PU Learning](https://arxiv.org/abs/2405.11911) | AAAI              | [Link](https://github.com/snudatalab/PULL)                   |
 | 2025 | [Attribute-Enhanced Similarity Ranking for Sparse Link Prediction](https://arxiv.org/abs/2412.00261) | KDD               | Link                                                         |
@@ -162,39 +164,42 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 
 ## Dynamic Graph
 
-| Year | Title                                                        | Venue            |                                                         Code |
-| ---- | ------------------------------------------------------------ | ---------------- | -----------------------------------------------------------: |
-| 2025 | [On the Cross-Graph Transferability of Dynamic Link Prediction](https://openreview.net/forum?id=dJQ5vj9ol7) | WWW              |                                                         Link |
-| 2025 | [Triangle Matters! TopDyG: Topology-aware Transformer for Link Prediction on Dynamic Graphs](https://openreview.net/forum?id=4ByDbWQ0GA) | WWW              |                                                         Link |
-| 2025 | [Enhancing Cross-domain Link Prediction via Evolution Process Modeling](https://openreview.net/forum?id=31fB9TR7Ku) | WWW              |               [Link](https://github.com/weichow23/CrossLink) |
-| 2025 | [Practicable Black-box Evasion Attacks on Link Prediction in Dynamic Graphs -- A Graph Sequential Embedding Method](https://arxiv.org/abs/2412.13134) | AAAI             |            [Link](https://github.com/JetRichardLee/GSE-METP) |
-| 2024 | [Improving Temporal Link Prediction via Temporal Walk Matrix Projection](https://arxiv.org/abs/2410.04013) | NIPS             |                       [Link](https://github.com/lxd99/TPNet) |
+| Year | Title                                                        | Venue            |                             Code                             |
+| :--: | ------------------------------------------------------------ | ---------------- | :----------------------------------------------------------: |
+| 2025 | TMetaNet: Topological Meta-Learning Framework for Dynamic Link Prediction | ICML             |                             Link                             |
+| 2025 | Learnable Spatial-Temporal Positional Encoding for Link Prediction | ICML             |          [Link](https://github.com/kthrn22/L-STEP)           |
+| 2025 | Analytical Construction on Geometric Architectures: Transitioning from Static to Temporal Link Prediction | ICML             |                             Link                             |
+| 2025 | [On the Cross-Graph Transferability of Dynamic Link Prediction](https://openreview.net/forum?id=dJQ5vj9ol7) | WWW              |                             Link                             |
+| 2025 | [Triangle Matters! TopDyG: Topology-aware Transformer for Link Prediction on Dynamic Graphs](https://openreview.net/forum?id=4ByDbWQ0GA) | WWW              |                             Link                             |
+| 2025 | [Enhancing Cross-domain Link Prediction via Evolution Process Modeling](https://openreview.net/forum?id=31fB9TR7Ku) | WWW              |        [Link](https://github.com/weichow23/CrossLink)        |
+| 2025 | [Practicable Black-box Evasion Attacks on Link Prediction in Dynamic Graphs -- A Graph Sequential Embedding Method](https://arxiv.org/abs/2412.13134) | AAAI             |      [Link](https://github.com/JetRichardLee/GSE-METP)       |
+| 2024 | [Improving Temporal Link Prediction via Temporal Walk Matrix Projection](https://arxiv.org/abs/2410.04013) | NIPS             |            [Link](https://github.com/lxd99/TPNet)            |
 | 2024 | [Co-Neighbor Encoding Schema: A Light-cost Structure Encoding Method for Dynamic Link Prediction](https://arxiv.org/abs/2407.20871) | KDD              | [Link](https://github.com/ckpassenger/DyGLib_CNEN/tree/CNEN) |
-| 2024 | [FreeDyG: Frequency Enhanced Continuous-Time Dynamic Graph Model for Link Prediction](https://openreview.net/forum?id=82Mc5ilInM) | ICLR             |                  [Link](https://github.com/Tianxzzz/FreeDyG) |
-| 2024 | [Spear and Shield: Adversarial Attacks and Defense Methods for Model-Based Link Prediction on Continuous-Time Dynamic Graphs](https://arxiv.org/abs/2308.10779) | AAAI             |           [Link](https://github.com/wooner49/T-spear-shield) |
+| 2024 | [FreeDyG: Frequency Enhanced Continuous-Time Dynamic Graph Model for Link Prediction](https://openreview.net/forum?id=82Mc5ilInM) | ICLR             |         [Link](https://github.com/Tianxzzz/FreeDyG)          |
+| 2024 | [Spear and Shield: Adversarial Attacks and Defense Methods for Model-Based Link Prediction on Continuous-Time Dynamic Graphs](https://arxiv.org/abs/2308.10779) | AAAI             |      [Link](https://github.com/wooner49/T-spear-shield)      |
 | 2024 | [Sequential stacking link prediction algorithms for temporal networks](https://www.nature.com/articles/s41467-024-45598-0) | Nature Comm.     | [Link](https://github.com/hexie1995/Sequential-Link-Prediction) |
-| 2023 | [An Attentional Multi-scale Co-evolving Model for Dynamic Link Prediction](https://dl.acm.org/doi/10.1145/3543507.3583396) | WWW              |           [Link](https://github.com/tsinghua-fib-lab/AMCNet) |
-| 2023 | [HGWaveNet: A Hyperbolic Graph Neural Network for Temporal Link Prediction](https://arxiv.org/abs/2304.07302) | WWW              |          [Link](https://github.com/TaiLvYuanLiang/HGWaveNet) |
-| 2023 | [Expressive and Efficient Representation Learning for Ranking Links in Temporal Graphs](https://dl.acm.org/doi/10.1145/3543507.3583476) | WWW              |                   [Link](https://github.com/susheels/tgrank) |
-| 2023 | [Dynamic Group Link Prediction in Continuous-Time Interaction Network](https://www.ijcai.org/proceedings/2023/248) | IJCAI            |                                                         Link |
-| 2023 | [Super Resolution Graph With Conditional Normalizing Flows for Temporal Link Prediction](https://ieeexplore.ieee.org/document/10183879) | TKDE             |                                                         Link |
-| 2023 | [High-Quality Temporal Link Prediction for Weighted Dynamic Graphs via Inductive Embedding Aggregation](https://ieeexplore.ieee.org/document/10026343) | TKDE             |                   [Link](https://github.com/KuroginQin/IDEA) |
-| 2023 | [Graph Sequential Neural ODE Process for Link Prediction on Dynamic and Sparse Graphs](https://arxiv.org/abs/2211.08568) | WSDM             |                     [Link](https://github.com/rmanluo/gsnop) |
-| 2023 | [Simplifying Temporal Heterogeneous Network for Continuous-Time Link prediction](https://dl.acm.org/doi/10.1145/3583780.3615059) | CIKM             |                       [Link](https://github.com/celi52/STHN) |
-| 2023 | [Temporal and Topological Augmentation-based Cross-view Contrastive Learning Model for Temporal Link Prediction](https://dl.acm.org/doi/abs/10.1145/3583780.3615231) | CIKM             |                                                         Link |
-| 2023 | [Temporal graph learning for dynamic link prediction with text in online social networks](https://link.springer.com/article/10.1007/s10994-023-06475-x) | Machine Learning |          [Link](https://github.com/manuel-dileo/dynamic-gnn) |
-| 2023 | [DNformer: Temporal Link Prediction with Transfer Learning in Dynamic Networks](https://dl.acm.org/doi/10.1145/3551892) | TKDD             |                   [Link](https://github.com/ACoTAI/DNformer) |
-| 2022 | [TempEL: Linking Dynamically Evolving and Newly Emerging Entities](https://arxiv.org/abs/2302.02500) | NIPS             |             [Link](https://github.com/klimzaporojets/TempEL) |
-| 2022 | [Parameter-free Dynamic Graph Embedding for Link Prediction](https://arxiv.org/abs/2210.08189) | NIPS             |                 [Link](https://github.com/FudanCISL/FreeGEM) |
-| 2022 | [Towards Better Evaluation for Dynamic Link Prediction](https://arxiv.org/abs/2207.10128) | NIPS             |                         [Link](https://github.com/fpour/DGB) |
-| 2022 | [TLogic: Temporal Logical Rules for Explainable Link Forecasting on Temporal Knowledge Graphs](https://arxiv.org/abs/2112.08025) | AAAI             |                 [Link](https://github.com/liu-yushan/tlogic) |
-| 2022 | [Few-shot Link Prediction in Dynamic Networks](https://dl.acm.org/doi/10.1145/3488560.3498417) | WSDM             |              [Link](https://github.com/BUPT-GAMMA/MetaDyGNN) |
-| 2021 | [Temporal Link Prediction Via Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9413413) | ICASSP           |                                                         Link |
-| 2021 | [Temporal Link Prediction With Motifs for Social Networks](https://ieeexplore.ieee.org/document/9525268) | TKDE             |                                                         Link |
-| 2020 | [Continuous-Time Link Prediction via Temporal Dependent Graph Neural Network](https://dl.acm.org/doi/10.1145/3366423.3380073) | WWW              |                   [Link](https://github.com/Leo-Q-316/TDGNN) |
-| 2020 | [Modeling Dynamic Heterogeneous Network for Link Prediction using Hierarchical Attention with Temporal RNN](https://arxiv.org/abs/2004.01024) | CIKM             |                     [Link](https://github.com/skx300/DyHATR) |
-| 2019 | [GCN-GAN: A Non-linear Temporal Link Prediction Model for Weighted Dynamic Networks](https://ieeexplore.ieee.org/document/8737631) | INFOCOM          |           [Link](https://github.com/jiangqn/GCN-GAN-pytorch) |
-| 2019 | [Time-aware Gradient Attack on Dynamic Network Link Prediction](https://arxiv.org/abs/1911.10561) | TKDE             |                                                         Link |
+| 2023 | [An Attentional Multi-scale Co-evolving Model for Dynamic Link Prediction](https://dl.acm.org/doi/10.1145/3543507.3583396) | WWW              |      [Link](https://github.com/tsinghua-fib-lab/AMCNet)      |
+| 2023 | [HGWaveNet: A Hyperbolic Graph Neural Network for Temporal Link Prediction](https://arxiv.org/abs/2304.07302) | WWW              |     [Link](https://github.com/TaiLvYuanLiang/HGWaveNet)      |
+| 2023 | [Expressive and Efficient Representation Learning for Ranking Links in Temporal Graphs](https://dl.acm.org/doi/10.1145/3543507.3583476) | WWW              |          [Link](https://github.com/susheels/tgrank)          |
+| 2023 | [Dynamic Group Link Prediction in Continuous-Time Interaction Network](https://www.ijcai.org/proceedings/2023/248) | IJCAI            |                             Link                             |
+| 2023 | [Super Resolution Graph With Conditional Normalizing Flows for Temporal Link Prediction](https://ieeexplore.ieee.org/document/10183879) | TKDE             |                             Link                             |
+| 2023 | [High-Quality Temporal Link Prediction for Weighted Dynamic Graphs via Inductive Embedding Aggregation](https://ieeexplore.ieee.org/document/10026343) | TKDE             |          [Link](https://github.com/KuroginQin/IDEA)          |
+| 2023 | [Graph Sequential Neural ODE Process for Link Prediction on Dynamic and Sparse Graphs](https://arxiv.org/abs/2211.08568) | WSDM             |           [Link](https://github.com/rmanluo/gsnop)           |
+| 2023 | [Simplifying Temporal Heterogeneous Network for Continuous-Time Link prediction](https://dl.acm.org/doi/10.1145/3583780.3615059) | CIKM             |            [Link](https://github.com/celi52/STHN)            |
+| 2023 | [Temporal and Topological Augmentation-based Cross-view Contrastive Learning Model for Temporal Link Prediction](https://dl.acm.org/doi/abs/10.1145/3583780.3615231) | CIKM             |                             Link                             |
+| 2023 | [Temporal graph learning for dynamic link prediction with text in online social networks](https://link.springer.com/article/10.1007/s10994-023-06475-x) | Machine Learning |     [Link](https://github.com/manuel-dileo/dynamic-gnn)      |
+| 2023 | [DNformer: Temporal Link Prediction with Transfer Learning in Dynamic Networks](https://dl.acm.org/doi/10.1145/3551892) | TKDD             |          [Link](https://github.com/ACoTAI/DNformer)          |
+| 2022 | [TempEL: Linking Dynamically Evolving and Newly Emerging Entities](https://arxiv.org/abs/2302.02500) | NIPS             |       [Link](https://github.com/klimzaporojets/TempEL)       |
+| 2022 | [Parameter-free Dynamic Graph Embedding for Link Prediction](https://arxiv.org/abs/2210.08189) | NIPS             |         [Link](https://github.com/FudanCISL/FreeGEM)         |
+| 2022 | [Towards Better Evaluation for Dynamic Link Prediction](https://arxiv.org/abs/2207.10128) | NIPS             |             [Link](https://github.com/fpour/DGB)             |
+| 2022 | [TLogic: Temporal Logical Rules for Explainable Link Forecasting on Temporal Knowledge Graphs](https://arxiv.org/abs/2112.08025) | AAAI             |         [Link](https://github.com/liu-yushan/tlogic)         |
+| 2022 | [Few-shot Link Prediction in Dynamic Networks](https://dl.acm.org/doi/10.1145/3488560.3498417) | WSDM             |       [Link](https://github.com/BUPT-GAMMA/MetaDyGNN)        |
+| 2021 | [Temporal Link Prediction Via Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9413413) | ICASSP           |                             Link                             |
+| 2021 | [Temporal Link Prediction With Motifs for Social Networks](https://ieeexplore.ieee.org/document/9525268) | TKDE             |                             Link                             |
+| 2020 | [Continuous-Time Link Prediction via Temporal Dependent Graph Neural Network](https://dl.acm.org/doi/10.1145/3366423.3380073) | WWW              |          [Link](https://github.com/Leo-Q-316/TDGNN)          |
+| 2020 | [Modeling Dynamic Heterogeneous Network for Link Prediction using Hierarchical Attention with Temporal RNN](https://arxiv.org/abs/2004.01024) | CIKM             |           [Link](https://github.com/skx300/DyHATR)           |
+| 2019 | [GCN-GAN: A Non-linear Temporal Link Prediction Model for Weighted Dynamic Networks](https://ieeexplore.ieee.org/document/8737631) | INFOCOM          |      [Link](https://github.com/jiangqn/GCN-GAN-pytorch)      |
+| 2019 | [Time-aware Gradient Attack on Dynamic Network Link Prediction](https://arxiv.org/abs/1911.10561) | TKDE             |                             Link                             |
 
 
 
