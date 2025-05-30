@@ -232,6 +232,8 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 
 | Year | Title                                                        | Venue     | Code                                                         |
 | ---- | ------------------------------------------------------------ | --------- | ------------------------------------------------------------ |
+| 2025 | [Fast-and-Frugal Text-Graph Transformers are Effective Link Predictors](https://arxiv.org/abs/2408.06778) | ACL       | Link                                                         |
+| 2025 | HyperFM: Fact-Centric Multimodal Fusion for Link Prediction over Hyper-Relational Knowledge Graphs | ACL       | [Link](https://github.com/UM-Data-Intelligence-Lab/HyperFM)  |
 | 2025 | [HySAE: An Efficient Semantic-Enhanced Representation Learning Model for Knowledge Hypergraph Link Prediction](https://openreview.net/forum?id=OLLYLTb8FC) | WWW       | Link                                                         |
 | 2025 | [Transfer-and-Fusion: Integrated Link Prediction Across Knowledge Graphs](https://ieeexplore.ieee.org/document/10897840) | TKDE      | [Link](https://github.com/nju-websoft/CLP)                   |
 | 2024 | [Causal Subgraph Learning for Generalizable Inductive Relation Prediction](https://dl.acm.org/doi/10.1145/3637528.3671972) | KDD       | Link                                                         |
