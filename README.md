@@ -10,6 +10,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 
 | Year | Title                                                        | Venue | Code                                                  |
 | ---- | ------------------------------------------------------------ | ----- | ----------------------------------------------------- |
+| 2025 | [Towards Understanding Link Predictor Generalizability Under Distribution Shifts](https://arxiv.org/abs/2406.08788) | KDD   | [Link](https://github.com/revolins/LPShift)           |
 | 2024 | [A Survey on Hyperlink Prediction](https://ieeexplore.ieee.org/document/10163497) | TNNLS | Link                                                  |
 | 2024 | [MOTI$\mathcal{V}\mathcal{E}$: A Drug-Target Interaction Graph For Inductive Link Prediction](https://arxiv.org/abs/2406.08649) | NIPS  | [Link](https://github.com/carpenter-singh-lab/motive) |
 | 2023 | [Temporal Link Prediction: A Unified Framework, Taxonomy, and Review](https://arxiv.org/abs/2210.08765) | CSUR  | [Link](https://github.com/KuroginQin/OpenTLP)         |
@@ -27,6 +28,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 | 2025 | [Open the Eyes of MPNN: Vision Enhances MPNN in Link Prediction](https://arxiv.org/abs/2505.08266) | ICML              | Link                                                         |
 | 2025 | [Improving Graph Neural Networks on Multi-node Tasks with the Labeling Trick](https://jmlr.org/papers/v26/23-0560.html) | JMLR              | [Link](https://github.com/GraphPKU/LabelingTrick)            |
 | 2025 | [Accurate Link Prediction for Edge-Incomplete Graphs via PU Learning](https://arxiv.org/abs/2405.11911) | AAAI              | [Link](https://github.com/snudatalab/PULL)                   |
+| 2025 | [Towards Understanding Link Predictor Generalizability Under Distribution Shifts](https://arxiv.org/abs/2406.08788) | KDD               | [Link](https://github.com/revolins/LPShift)                  |
 | 2025 | [Attribute-Enhanced Similarity Ranking for Sparse Link Prediction](https://arxiv.org/abs/2412.00261) | KDD               | Link                                                         |
 | 2025 | [Hyperdimensional Representation Learning for Node Classification and Link Prediction](https://arxiv.org/abs/2402.17073) | WSDM              | [Link](https://github.com/Abhishek-Dalvi410/HDGL)            |
 | 2025 | [Norm Augmented Graph AutoEncoders for Link Prediction](https://arxiv.org/abs/2502.05868) | ICASSP            | [Link](https://github.com/Cloudy1225/GAE-NA)                 |
