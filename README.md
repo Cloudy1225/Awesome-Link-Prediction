@@ -25,7 +25,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 | ---- | ------------------------------------------------------------ | ----------------- | ------------------------------------------------------------ |
 | 2025 | [Implicit Degree Bias in the Link Rrediction Task](https://arxiv.org/abs/2405.14985) | ICML              | [Link](https://github.com/skojaku/degree-corrected-link-prediction-benchmark) |
 | 2025 | Complete-Tree Space Favors Data-Efficient Link Prediction    | ICML              | Link                                                         |
-| 2025 | [Open the Eyes of MPNN: Vision Enhances MPNN in Link Prediction](https://arxiv.org/abs/2505.08266) | ICML              | Link                                                         |
+| 2025 | [Open the Eyes of MPNN: Vision Enhances MPNN in Link Prediction](https://arxiv.org/abs/2505.08266) | ICML              | [Link](https://github.com/WEIYanbin1999/EGVN)                |
 | 2025 | [Improving Graph Neural Networks on Multi-node Tasks with the Labeling Trick](https://jmlr.org/papers/v26/23-0560.html) | JMLR              | [Link](https://github.com/GraphPKU/LabelingTrick)            |
 | 2025 | [Accurate Link Prediction for Edge-Incomplete Graphs via PU Learning](https://arxiv.org/abs/2405.11911) | AAAI              | [Link](https://github.com/snudatalab/PULL)                   |
 | 2025 | [Towards Understanding Link Predictor Generalizability Under Distribution Shifts](https://arxiv.org/abs/2406.08788) | KDD               | [Link](https://github.com/revolins/LPShift)                  |
@@ -168,8 +168,8 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 
 | Year | Title                                                        | Venue            |                             Code                             |
 | :--: | ------------------------------------------------------------ | ---------------- | :----------------------------------------------------------: |
-| 2025 | TMetaNet: Topological Meta-Learning Framework for Dynamic Link Prediction | ICML             |                             Link                             |
-| 2025 | Learnable Spatial-Temporal Positional Encoding for Link Prediction | ICML             |          [Link](https://github.com/kthrn22/L-STEP)           |
+| 2025 | [TMetaNet: Topological Meta-Learning Framework for Dynamic Link Prediction](https://arxiv.org/abs/2506.00453) | ICML             |         [Link](https://github.com/Lihaogx/TMetaNet)          |
+| 2025 | [Learnable Spatial-Temporal Positional Encoding for Link Prediction](https://arxiv.org/abs/2506.08309) | ICML             |          [Link](https://github.com/kthrn22/L-STEP)           |
 | 2025 | Analytical Construction on Geometric Architectures: Transitioning from Static to Temporal Link Prediction | ICML             |                             Link                             |
 | 2025 | [On the Cross-Graph Transferability of Dynamic Link Prediction](https://openreview.net/forum?id=dJQ5vj9ol7) | WWW              |                             Link                             |
 | 2025 | [Triangle Matters! TopDyG: Topology-aware Transformer for Link Prediction on Dynamic Graphs](https://openreview.net/forum?id=4ByDbWQ0GA) | WWW              |                             Link                             |
