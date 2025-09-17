@@ -32,6 +32,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 | 2025 | [Towards Understanding Link Predictor Generalizability Under Distribution Shifts](https://arxiv.org/abs/2406.08788) | KDD               | [Link](https://github.com/revolins/LPShift)                  |
 | 2025 | [Attribute-Enhanced Similarity Ranking for Sparse Link Prediction](https://arxiv.org/abs/2412.00261) | KDD               | Link                                                         |
 | 2025 | [Hyperdimensional Representation Learning for Node Classification and Link Prediction](https://arxiv.org/abs/2402.17073) | WSDM              | [Link](https://github.com/Abhishek-Dalvi410/HDGL)            |
+| 2025 | [LinkGPT: Leveraging Large Language Models for Enhanced Link Prediction in Text-Attributed Graphs](https://arxiv.org/abs/2406.04640) | CIKM              | [Link](https://github.com/twelfth-star/LinkGPT)              |
 | 2025 | [Enhancing Contrastive Link Prediction With Edge Balancing Augmentation](https://arxiv.org/abs/2508.14808) | CIKM              | Link                                                         |
 | 2025 | [Norm Augmented Graph AutoEncoders for Link Prediction](https://arxiv.org/abs/2502.05868) | ICASSP            | [Link](https://github.com/Cloudy1225/GAE-NA)                 |
 | 2025 | [Directed Hypergraph Representation Learning for Link Prediction](https://proceedings.mlr.press/v238/ma24b.html) | AISTATS           | [Link](https://github.com/mazitong/DHGNN)                    |
@@ -301,7 +302,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 
 | Year | Title                                                        | Venue | Code                                                         |
 | ---- | ------------------------------------------------------------ | ----- | ------------------------------------------------------------ |
-| 2025 | [SMA-GNN: A Symbol-Aware Graph Neural Network for Signed Link Prediction in Recommender Systems](https://dl.acm.org/doi/10.1145/3711896.3737132) | KDD   | [Link](https://github.com/xiaohuzidefeijian/SMAGNN) |
+| 2025 | [SMA-GNN: A Symbol-Aware Graph Neural Network for Signed Link Prediction in Recommender Systems](https://dl.acm.org/doi/10.1145/3711896.3737132) | KDD   | [Link](https://github.com/xiaohuzidefeijian/SMAGNN)          |
 | 2024 | [Link Recommendation to Augment Influence Diffusion with Provable Guarantees](https://arxiv.org/abs/2402.19189) | WWW   | Link                                                         |
 | 2023 | [On the Relationship Between Relevance and Conflict in Online Social Link Recommendations](https://arxiv.org/abs/2310.14076) | NIPS  | [Link](https://github.com/Abel0828/NeurIPS23-Conflict-Relevance-in-FJ) |
 | 2022 | [Link Recommendations for PageRank Fairness](https://dl.acm.org/doi/10.1145/3485447.3512249) | WWW   | [Link](https://github.com/ksemer/fairPRrec)                  |
