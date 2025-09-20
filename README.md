@@ -23,6 +23,8 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 
 | Year | Title                                                        | Venue             | Code                                                         |
 | ---- | ------------------------------------------------------------ | ----------------- | ------------------------------------------------------------ |
+| 2025 | [OCN: Effectively Utilizing Higher-Order Common Neighbors for Better Link Prediction](https://arxiv.org/pdf/2505.19719) | NIPS              | Link                                                         |
+| 2025 | [Adaptive Network Automata Modelling of Complex Networks for Link Prediction](https://europepmc.org/article/PPR/PPR1028343) | NIPS              | Link                                                         |
 | 2025 | [Implicit Degree Bias in the Link Rrediction Task](https://arxiv.org/abs/2405.14985) | ICML              | [Link](https://github.com/skojaku/degree-corrected-link-prediction-benchmark) |
 | 2025 | [Complete-Tree Space Favors Data-Efficient Link Prediction](https://openreview.net/forum?id=0uoKBSxRjh) | ICML              | [Link](https://github.com/KevinGao7/LeafMatching)            |
 | 2025 | [Open the Eyes of MPNN: Vision Enhances MPNN in Link Prediction](https://arxiv.org/abs/2505.08266) | ICML              | [Link](https://github.com/WEIYanbin1999/EGVN)                |
@@ -171,6 +173,8 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 
 | Year | Title                                                        | Venue            |                             Code                             |
 | :--: | ------------------------------------------------------------ | ---------------- | :----------------------------------------------------------: |
+| 2025 | TAMI: Taming Heterogeneity in Temporal Interactions for Temporal Graph Link Prediction | NIPS             |                             Link                             |
+| 2025 | [Future Link Prediction Without Memory or Aggregation](https://arxiv.org/abs/2505.19408) | NIPS             |                             Link                             |
 | 2025 | [TMetaNet: Topological Meta-Learning Framework for Dynamic Link Prediction](https://arxiv.org/abs/2506.00453) | ICML             |         [Link](https://github.com/Lihaogx/TMetaNet)          |
 | 2025 | [Learnable Spatial-Temporal Positional Encoding for Link Prediction](https://arxiv.org/abs/2506.08309) | ICML             |          [Link](https://github.com/kthrn22/L-STEP)           |
 | 2025 | [Analytical Construction on Geometric Architectures: Transitioning from Static to Temporal Link Prediction](https://openreview.net/forum?id=0d0L3U3MAM) | ICML             |                             Link                             |
@@ -311,3 +315,4 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 | 2021 | [Incorporating Link Prediction into Multi-Relational Item Graph Modeling for Session-Based Recommendation](https://ieeexplore.ieee.org/abstract/document/9536374) | TKDE  | [Link](https://github.com/Autumn945/MGNN-SPred)              |
 | 2020 | [Multi-level Graph Convolutional Networks for Cross-platform Anchor Link Prediction](https://arxiv.org/abs/2006.01963) | KDD   | Link                                                         |
 | 2019 | [Link Prediction Under Imperfect Detection: Collaborative Filtering for Ecological Networks](https://ieeexplore.ieee.org/abstract/document/8943390) | TKDE  | [Link](https://github.com/Hutchinson-Lab/Poisson-N-mixture)  |
+
