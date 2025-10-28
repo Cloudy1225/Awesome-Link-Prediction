@@ -174,8 +174,8 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 
 | Year | Title                                                        | Venue            |                             Code                             |
 | :--: | ------------------------------------------------------------ | ---------------- | :----------------------------------------------------------: |
-| 2025 | TAMI: Taming Heterogeneity in Temporal Interactions for Temporal Graph Link Prediction | NIPS             |                             Link                             |
-| 2025 | [Future Link Prediction Without Memory or Aggregation](https://arxiv.org/abs/2505.19408) | NIPS             |                             Link                             |
+| 2025 | [TAMI: Taming Heterogeneity in Temporal Interactions for Temporal Graph Link Prediction](https://arxiv.org/abs/2510.23577) | NIPS             |    [Link](https://github.com/Alleinx/TAMI_temporal_graph)    |
+| 2025 | [Future Link Prediction Without Memory or Aggregation](https://arxiv.org/abs/2505.19408) | NIPS             |                           [Link](https://github.com/luyi256/CRAFT)                           |
 | 2025 | [TMetaNet: Topological Meta-Learning Framework for Dynamic Link Prediction](https://arxiv.org/abs/2506.00453) | ICML             |         [Link](https://github.com/Lihaogx/TMetaNet)          |
 | 2025 | [Learnable Spatial-Temporal Positional Encoding for Link Prediction](https://arxiv.org/abs/2506.08309) | ICML             |          [Link](https://github.com/kthrn22/L-STEP)           |
 | 2025 | [Analytical Construction on Geometric Architectures: Transitioning from Static to Temporal Link Prediction](https://openreview.net/forum?id=0d0L3U3MAM) | ICML             |                             Link                             |
