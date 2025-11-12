@@ -34,6 +34,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 | 2025 | [Towards Understanding Link Predictor Generalizability Under Distribution Shifts](https://arxiv.org/abs/2406.08788) | KDD               | [Link](https://github.com/revolins/LPShift)                  |
 | 2025 | [Attribute-Enhanced Similarity Ranking for Sparse Link Prediction](https://arxiv.org/abs/2412.00261) | KDD               | Link                                                         |
 | 2025 | [Hyperdimensional Representation Learning for Node Classification and Link Prediction](https://arxiv.org/abs/2402.17073) | WSDM              | [Link](https://github.com/Abhishek-Dalvi410/HDGL)            |
+| 2025 | [CGLE: Class-label Graph Link Estimator for Link Prediction](https://arxiv.org/abs/2511.06982) | ICDM                | [Link](https://github.com/data-iitd/cgle-icdm2025) |
 | 2025 | [Reconsidering the Performance of GAE in Link Prediction](https://arxiv.org/abs/2411.03845) | CIKM              | [Link](https://github.com/GraphPKU/Refined-GAE)              |
 | 2025 | [LinkGPT: Leveraging Large Language Models for Enhanced Link Prediction in Text-Attributed Graphs](https://arxiv.org/abs/2406.04640) | CIKM              | [Link](https://github.com/twelfth-star/LinkGPT)              |
 | 2025 | [Enhancing Contrastive Link Prediction With Edge Balancing Augmentation](https://arxiv.org/abs/2508.14808) | CIKM              | Link                                                         |
@@ -316,4 +317,5 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 | 2021 | [Incorporating Link Prediction into Multi-Relational Item Graph Modeling for Session-Based Recommendation](https://ieeexplore.ieee.org/abstract/document/9536374) | TKDE  | [Link](https://github.com/Autumn945/MGNN-SPred)              |
 | 2020 | [Multi-level Graph Convolutional Networks for Cross-platform Anchor Link Prediction](https://arxiv.org/abs/2006.01963) | KDD   | Link                                                         |
 | 2019 | [Link Prediction Under Imperfect Detection: Collaborative Filtering for Ecological Networks](https://ieeexplore.ieee.org/abstract/document/8943390) | TKDE  | [Link](https://github.com/Hutchinson-Lab/Poisson-N-mixture)  |
+
 
