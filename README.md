@@ -21,6 +21,9 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 
 | Year | Title                                                        | Venue             | Code                                                         |
 | ---- | ------------------------------------------------------------ | ----------------- | ------------------------------------------------------------ |
+| 2026 | [Breaking the Dyadic Barrier: Rethinking Fairness in Link Prediction Beyond Demographic Parity](https://arxiv.org/abs/2511.06568) | AAAI              | [Link](https://github.com/joaopedromattos/MORAL)             |
+| 2026 | Subgraph Encoding with Bicentric Sphere Node Labeling and Pooling for Link Prediction | AAAI              | Link                                                         |
+| 2026 | Spectral Basis Learning for Expressive Graph Neural Networks in Link Prediction | AAAI              | [Link](https://github.com/NiloofarAzizi/aaai-2026-LLwLC)     |
 | 2025 | [OCN: Effectively Utilizing Higher-Order Common Neighbors for Better Link Prediction](https://arxiv.org/abs/2505.19719) | NIPS              | [Link](https://github.com/qingpingmo/OCN)                    |
 | 2025 | [Adaptive Network Automata Modelling of Complex Networks for Link Prediction](https://europepmc.org/article/PPR/PPR1028343) | NIPS              | Link                                                         |
 | 2025 | [Implicit Degree Bias in the Link Rrediction Task](https://arxiv.org/abs/2405.14985) | ICML              | [Link](https://github.com/skojaku/degree-corrected-link-prediction-benchmark) |
@@ -33,7 +36,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 | 2025 | [A Scalable Pretraining Framework for Link Prediction with Efficient Adaptation](https://dl.acm.org/doi/10.1145/3711896.3736822) | KDD               | [Link](https://github.com/SongYYYY/PALP)                     |
 | 2025 | [Towards Understanding Link Predictor Generalizability Under Distribution Shifts](https://arxiv.org/abs/2406.08788) | KDD               | [Link](https://github.com/revolins/LPShift)                  |
 | 2025 | [Attribute-Enhanced Similarity Ranking for Sparse Link Prediction](https://arxiv.org/abs/2412.00261) | KDD               | Link                                                         |
-| 2025 | [Node Duplication Improves Cold-start Link Prediction](https://arxiv.org/abs/2402.09711) | TMLR              | [Link](https://github.com/zhichunguo/NodeDup)                                                     |
+| 2025 | [Node Duplication Improves Cold-start Link Prediction](https://arxiv.org/abs/2402.09711) | TMLR              | [Link](https://github.com/zhichunguo/NodeDup)                |
 | 2025 | [Hyperdimensional Representation Learning for Node Classification and Link Prediction](https://arxiv.org/abs/2402.17073) | WSDM              | [Link](https://github.com/Abhishek-Dalvi410/HDGL)            |
 | 2025 | [CGLE: Class-label Graph Link Estimator for Link Prediction](https://arxiv.org/abs/2511.06982) | ICDM              | [Link](https://github.com/data-iitd/cgle-icdm2025)           |
 | 2025 | [Reconsidering the Performance of GAE in Link Prediction](https://arxiv.org/abs/2411.03845) | CIKM              | [Link](https://github.com/GraphPKU/Refined-GAE)              |
@@ -42,6 +45,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 | 2025 | [Norm Augmented Graph AutoEncoders for Link Prediction](https://arxiv.org/abs/2502.05868) | ICASSP            | [Link](https://github.com/Cloudy1225/GAE-NA)                 |
 | 2025 | [Directed Hypergraph Representation Learning for Link Prediction](https://proceedings.mlr.press/v238/ma24b.html) | AISTATS           | [Link](https://github.com/mazitong/DHGNN)                    |
 | 2025 | [Boosting GNN-Based Link Prediction via PU-AUC Optimization](https://ieeexplore.ieee.org/document/10869638) | TKDE              | Link                                                         |
+| 2025 | [Graph Attention-based Adaptive Transfer Learning for Link Prediction](https://arxiv.org/abs/2512.22252) | TIST              | [Link](https://github.com/DSI-Lab1/GAATNet)                  |
 | 2025 | [Self-representation-based Generative Graph Neural Networks for End-to-End Link Prediction](https://ieeexplore.ieee.org/abstract/document/10982146) | TBD               | [Link](https://github.com/star4455/GraphLP)                  |
 | 2024 | [Pure Message Passing Can Estimate Common Neighbor for Link Prediction](https://arxiv.org/abs/2309.00976) | NIPS              | [Link](https://github.com/Barcavin/efficient-node-labelling) |
 | 2024 | [On the Impact of Feature Heterophily on Link Prediction with Graph Neural Networks](https://arxiv.org/abs/2409.17475) | NIPS              | Link                                                         |
@@ -176,6 +180,8 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 
 | Year | Title                                                        | Venue            |                             Code                             |
 | :--: | ------------------------------------------------------------ | ---------------- | :----------------------------------------------------------: |
+| 2026 | [Global-Lens Transformers: Adaptive Token Mixing for Dynamic Link Prediction](https://arxiv.org/abs/2511.12442) | AAAI              | Link                                                         |
+| 2026 | [Unlocking Multi-Modal Potentials for Link Prediction on Dynamic Text-Attributed Graphs](https://arxiv.org/abs/2502.19651) | AAAI              | [Link](https://github.com/LuckyGirl-XU/MoMent)               |
 | 2025 | [TAMI: Taming Heterogeneity in Temporal Interactions for Temporal Graph Link Prediction](https://arxiv.org/abs/2510.23577) | NIPS             |    [Link](https://github.com/Alleinx/TAMI_temporal_graph)    |
 | 2025 | [Future Link Prediction Without Memory or Aggregation](https://arxiv.org/abs/2505.19408) | NIPS             |           [Link](https://github.com/luyi256/CRAFT)           |
 | 2025 | [TMetaNet: Topological Meta-Learning Framework for Dynamic Link Prediction](https://arxiv.org/abs/2506.00453) | ICML             |         [Link](https://github.com/Lihaogx/TMetaNet)          |
@@ -248,6 +254,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 
 | Year | Title                                                        | Venue     | Code                                                         |
 | ---- | ------------------------------------------------------------ | --------- | ------------------------------------------------------------ |
+| 2026 | [UniHR: Hierarchical Representation Learning for Unified Knowledge Graph Link Prediction](https://arxiv.org/abs/2411.07019) | AAAI      | [Link](https://github.com/zjukg/UniHR)                                                     |
 | 2025 | [Context Pooling: Query-specific Graph Pooling for Generic Inductive Link Prediction in Knowledge Graphs](https://arxiv.org/abs/2507.07595) | KDD       | [Link](https://github.com/ZhixiangSu/Context-Pooling)        |
 | 2025 | [Fast-and-Frugal Text-Graph Transformers are Effective Link Predictors](https://arxiv.org/abs/2408.06778) | ACL       | [Link](https://github.com/idiap/fnf-tg)                      |
 | 2025 | [HyperFM: Fact-Centric Multimodal Fusion for Link Prediction over Hyper-Relational Knowledge Graphs](https://www.fst.um.edu.mo/personal/wp-content/uploads/2025/05/2025_ACL_HyperFM.pdf) | ACL       | [Link](https://github.com/UM-Data-Intelligence-Lab/HyperFM)  |
