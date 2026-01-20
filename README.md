@@ -24,6 +24,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 | 2026 | [Breaking the Dyadic Barrier: Rethinking Fairness in Link Prediction Beyond Demographic Parity](https://arxiv.org/abs/2511.06568) | AAAI              | [Link](https://github.com/joaopedromattos/MORAL)             |
 | 2026 | Subgraph Encoding with Bicentric Sphere Node Labeling and Pooling for Link Prediction | AAAI              | Link                                                         |
 | 2026 | Spectral Basis Learning for Expressive Graph Neural Networks in Link Prediction | AAAI              | [Link](https://github.com/NiloofarAzizi/aaai-2026-LLwLC)     |
+| 2026 | PRISM: Link Prediction in Attributed Networks With Uncertain Modalities | TKDE              | [Link](https://github.com/Ruohan-Yang/PRISM)                                                     |
 | 2025 | [OCN: Effectively Utilizing Higher-Order Common Neighbors for Better Link Prediction](https://arxiv.org/abs/2505.19719) | NIPS              | [Link](https://github.com/qingpingmo/OCN)                    |
 | 2025 | [Adaptive Network Automata Modelling of Complex Networks for Link Prediction](https://europepmc.org/article/PPR/PPR1028343) | NIPS              | Link                                                         |
 | 2025 | [Implicit Degree Bias in the Link Rrediction Task](https://arxiv.org/abs/2405.14985) | ICML              | [Link](https://github.com/skojaku/degree-corrected-link-prediction-benchmark) |
