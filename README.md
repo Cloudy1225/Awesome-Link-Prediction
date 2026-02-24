@@ -242,6 +242,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 
 | Year | Title                                                        | Venue | Code                                                |
 | ---- | ------------------------------------------------------------ | ----- | --------------------------------------------------- |
+| 2026 | [A Scalable Inter-edge Correlation Modeling in CopulaGNN for Link Sign Prediction](https://arxiv.org/abs/2601.19175) | ICLR  | [Link](https://github.com/jinkyusung/CopulaLSP)                                            |
 | 2025 | [SMA-GNN: A Symbol-Aware Graph Neural Network for Signed Link Prediction in Recommender Systems](https://dl.acm.org/doi/10.1145/3711896.3737132) | KDD   | [Link](https://github.com/xiaohuzidefeijian/SMAGNN) |
 | 2025 | [GegenNet: Spectral Convolutional Neural Networks for Link Sign Prediction in Signed Bipartite Graphs](https://arxiv.org/abs/2508.19907) | CIKM  | [Link](https://github.com/wanghewen/GegenNet)       |
 | 2025 | [Self-Explainable Graph Transformer for Link Sign Prediction](https://arxiv.org/abs/2408.08754) | AAAI  | [Link](https://github.com/liule66/SE-SGformer)      |
@@ -255,6 +256,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 
 | Year | Title                                                        | Venue     | Code                                                         |
 | ---- | ------------------------------------------------------------ | --------- | ------------------------------------------------------------ |
+| 2026 | [HYPER: A Foundation Model for Inductive Link Prediction with Knowledge Hypergraphs](https://arxiv.org/abs/2506.12362) | ICLR      | [Link](https://github.com/HxyScotthuang/HYPER)                                                     |
 | 2026 | [UniHR: Hierarchical Representation Learning for Unified Knowledge Graph Link Prediction](https://arxiv.org/abs/2411.07019) | AAAI      | [Link](https://github.com/zjukg/UniHR)                                                     |
 | 2025 | [Context Pooling: Query-specific Graph Pooling for Generic Inductive Link Prediction in Knowledge Graphs](https://arxiv.org/abs/2507.07595) | KDD       | [Link](https://github.com/ZhixiangSu/Context-Pooling)        |
 | 2025 | [Fast-and-Frugal Text-Graph Transformers are Effective Link Predictors](https://arxiv.org/abs/2408.06778) | ACL       | [Link](https://github.com/idiap/fnf-tg)                      |
@@ -326,3 +328,4 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 | 2021 | [Incorporating Link Prediction into Multi-Relational Item Graph Modeling for Session-Based Recommendation](https://ieeexplore.ieee.org/abstract/document/9536374) | TKDE  | [Link](https://github.com/Autumn945/MGNN-SPred)              |
 | 2020 | [Multi-level Graph Convolutional Networks for Cross-platform Anchor Link Prediction](https://arxiv.org/abs/2006.01963) | KDD   | Link                                                         |
 | 2019 | [Link Prediction Under Imperfect Detection: Collaborative Filtering for Ecological Networks](https://ieeexplore.ieee.org/abstract/document/8943390) | TKDE  | [Link](https://github.com/Hutchinson-Lab/Poisson-N-mixture)  |
+
