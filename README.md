@@ -38,6 +38,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 | 2025 | [A Scalable Pretraining Framework for Link Prediction with Efficient Adaptation](https://dl.acm.org/doi/10.1145/3711896.3736822) | KDD               | [Link](https://github.com/SongYYYY/PALP)                     |
 | 2025 | [Towards Understanding Link Predictor Generalizability Under Distribution Shifts](https://arxiv.org/abs/2406.08788) | KDD               | [Link](https://github.com/revolins/LPShift)                  |
 | 2025 | [Attribute-Enhanced Similarity Ranking for Sparse Link Prediction](https://arxiv.org/abs/2412.00261) | KDD               | Link                                                         |
+| 2025 | [Universal Link Predictor By In-Context Learning on Graphs](https://openreview.net/forum?id=EYpqmoejB8) | TMLR              | [Link](https://github.com/Barcavin/context_LP)               |
 | 2025 | [Node Duplication Improves Cold-start Link Prediction](https://arxiv.org/abs/2402.09711) | TMLR              | [Link](https://github.com/zhichunguo/NodeDup)                |
 | 2025 | [Hyperdimensional Representation Learning for Node Classification and Link Prediction](https://arxiv.org/abs/2402.17073) | WSDM              | [Link](https://github.com/Abhishek-Dalvi410/HDGL)            |
 | 2025 | [CGLE: Class-label Graph Link Estimator for Link Prediction](https://arxiv.org/abs/2511.06982) | ICDM              | [Link](https://github.com/data-iitd/cgle-icdm2025)           |
