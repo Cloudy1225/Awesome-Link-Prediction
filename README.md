@@ -21,6 +21,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 
 | Year | Title                                                        | Venue             | Code                                                         |
 | ---- | ------------------------------------------------------------ | ----------------- | ------------------------------------------------------------ |
+| 2026 | [Plain Transformers are Surprisingly Powerful Link Predictors](https://arxiv.org/abs/2602.01553) | ICML              | Link                                                         |
 | 2026 | [Breaking the Dyadic Barrier: Rethinking Fairness in Link Prediction Beyond Demographic Parity](https://arxiv.org/abs/2511.06568) | AAAI              | [Link](https://github.com/joaopedromattos/MORAL)             |
 | 2026 | [Subgraph Encoding with Bicentric Sphere Node Labeling and Pooling for Link Prediction](https://github.com/fang98/BSSubGNN/blob/master/AAAI2026_Camera_Ready.pdf) | AAAI              | [Link](https://github.com/fang98/BSSubGNN)                   |
 | 2026 | [Spectral Basis Learning for Expressive Graph Neural Networks in Link Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/39044) | AAAI              | [Link](https://github.com/NiloofarAzizi/aaai-2026-LLwLC)     |
