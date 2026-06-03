@@ -21,7 +21,8 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 
 | Year | Title                                                        | Venue             | Code                                                         |
 | ---- | ------------------------------------------------------------ | ----------------- | ------------------------------------------------------------ |
-| 2026 | [Plain Transformers are Surprisingly Powerful Link Predictors](https://arxiv.org/abs/2602.01553) | ICML              | Link                                                         |
+| 2026 | [MIMO-LP: A Multi-Input Multi-Output Framework for Subgraph-based Link Prediction](https://icml.cc/virtual/2026/poster/66260) | ICML              | Link                                                         |
+| 2026 | [Plain Transformers are Surprisingly Powerful Link Predictors](https://arxiv.org/abs/2602.01553) | ICML              | [Link](https://github.com/quang-truong/pencil)               |
 | 2026 | [Rethinking Link Prediction for Directed Graphs](https://arxiv.org/abs/2502.05724) | TPAMI             | [Link](https://github.com/ivam-he/DirLinkBench-SDGAE)        |
 | 2026 | [Breaking the Dyadic Barrier: Rethinking Fairness in Link Prediction Beyond Demographic Parity](https://arxiv.org/abs/2511.06568) | AAAI              | [Link](https://github.com/joaopedromattos/MORAL)             |
 | 2026 | [Subgraph Encoding with Bicentric Sphere Node Labeling and Pooling for Link Prediction](https://github.com/fang98/BSSubGNN/blob/master/AAAI2026_Camera_Ready.pdf) | AAAI              | [Link](https://github.com/fang98/BSSubGNN)                   |
@@ -260,6 +261,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 
 | Year | Title                                                        | Venue     | Code                                                         |
 | ---- | ------------------------------------------------------------ | --------- | ------------------------------------------------------------ |
+| 2026 | [On the Theoretical Limitations of Embedding-based Link Prediction](https://icml.cc/virtual/2026/poster/64561) | ICML      | Link                                                         |
 | 2026 | [HYPER: A Foundation Model for Inductive Link Prediction with Knowledge Hypergraphs](https://arxiv.org/abs/2506.12362) | ICLR      | [Link](https://github.com/HxyScotthuang/HYPER)                                                     |
 | 2026 | [UniHR: Hierarchical Representation Learning for Unified Knowledge Graph Link Prediction](https://arxiv.org/abs/2411.07019) | AAAI      | [Link](https://github.com/zjukg/UniHR)                                                     |
 | 2025 | [Context Pooling: Query-specific Graph Pooling for Generic Inductive Link Prediction in Knowledge Graphs](https://arxiv.org/abs/2507.07595) | KDD       | [Link](https://github.com/ZhixiangSu/Context-Pooling)        |
