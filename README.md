@@ -186,6 +186,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 
 | Year | Title                                                        | Venue            |                             Code                             |
 | :--: | ------------------------------------------------------------ | ---------------- | :----------------------------------------------------------: |
+| 2026 | [Higher-order Structure Boosts Link Prediction on Temporal Graphs](https://arxiv.org/abs/2505.15746) | SDM              |                             Link                             |
 | 2026 | [Global-Lens Transformers: Adaptive Token Mixing for Dynamic Link Prediction](https://arxiv.org/abs/2511.12442) | AAAI              | Link                                                         |
 | 2026 | [Unlocking Multi-Modal Potentials for Link Prediction on Dynamic Text-Attributed Graphs](https://arxiv.org/abs/2502.19651) | AAAI              | [Link](https://github.com/LuckyGirl-XU/MoMent)               |
 | 2025 | [TAMI: Taming Heterogeneity in Temporal Interactions for Temporal Graph Link Prediction](https://arxiv.org/abs/2510.23577) | NIPS             |    [Link](https://github.com/Alleinx/TAMI_temporal_graph)    |
