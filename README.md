@@ -21,6 +21,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 
 | Year | Title                                                        | Venue             | Code                                                         |
 | ---- | ------------------------------------------------------------ | ----------------- | ------------------------------------------------------------ |
+| 2026 | [Self-Explaining Graph Neural Network for Link Prediction Based on Path-Aware Prototype Learning](https://ieeexplore.ieee.org/document/11683389) | TKDE              | Link                                                         |
 | 2026 | [MIMO-LP: A Multi-Input Multi-Output Framework for Subgraph-based Link Prediction](https://icml.cc/virtual/2026/poster/66260) | ICML              | Link                                                         |
 | 2026 | [Plain Transformers are Surprisingly Powerful Link Predictors](https://arxiv.org/abs/2602.01553) | ICML              | [Link](https://github.com/quang-truong/pencil)               |
 | 2026 | [Rethinking Link Prediction for Directed Graphs](https://arxiv.org/abs/2502.05724) | TPAMI             | [Link](https://github.com/ivam-he/DirLinkBench-SDGAE)        |
