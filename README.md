@@ -1,6 +1,6 @@
 # Awesome Link Prediction
 
-Link Prediction (LP) attempts to predict unobserved edges in a graph. It has been adopted in many applications including recommender systems, social networks, knowledge graphs, and drug discovery. We collect papers published at JMLR, TPAMI, NIPS, ICML, ICLR, WWW, WSDM, LoG, KDD, VLDB, CIKM, TKDE, AAAI, IJCAI, ECML/PKDD, AISTATS, ICDM, SIGIR, ICDE, INFOCOM, ACL, TNNLS, TKDD, ECAI, DASFAA, ICASSP, TMLR, Nature Communications, Pattern Recognition, Machine Learning, Information Processing and Management, TBD and so on.
+Link Prediction (LP) attempts to predict unobserved edges in a graph. It has been adopted in many applications including recommender systems, social networks, knowledge graphs, and drug discovery. We collect papers published at JMLR, TPAMI, NIPS, ICML, ICLR, WWW, WSDM, LoG, KDD, VLDB, CIKM, TKDE, AAAI, IJCAI, ECML/PKDD, AISTATS, ICDM, SIGIR, ICDE, INFOCOM, ACL, ISWC, TNNLS, TKDD, ECAI, DASFAA, ICASSP, TMLR, Nature Communications, Pattern Recognition, Machine Learning, Information Processing and Management, TBD and so on.
 
 ---
 
@@ -264,14 +264,15 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 | Year | Title                                                        | Venue     | Code                                                         |
 | ---- | ------------------------------------------------------------ | --------- | ------------------------------------------------------------ |
 | 2026 | [On the Theoretical Limitations of Embedding-based Link Prediction](https://icml.cc/virtual/2026/poster/64561) | ICML      | Link                                                         |
+| 2026 | [Adaptive Knowledge Distillation With GCN–GAT Teacher–Student Models for Link Prediction on Out of Entity Triples](https://ieeexplore.ieee.org/abstract/document/11675908) | TKDE | [Link](https://github.com/hanlly/GGTSM) |
 | 2026 | [HYPER: A Foundation Model for Inductive Link Prediction with Knowledge Hypergraphs](https://arxiv.org/abs/2506.12362) | ICLR      | [Link](https://github.com/HxyScotthuang/HYPER)                                                     |
 | 2026 | [UniHR: Hierarchical Representation Learning for Unified Knowledge Graph Link Prediction](https://arxiv.org/abs/2411.07019) | AAAI      | [Link](https://github.com/zjukg/UniHR)                                                     |
+| 2025 | [Leveraging Open Path from Pruned Graph for Link Prediction on Knowledge Graphs](https://doi.org/10.1007/978-3-032-09527-5_30) | ISWC | [Link](https://github.com/starrlee356/OPPGLP) |
 | 2025 | [Context Pooling: Query-specific Graph Pooling for Generic Inductive Link Prediction in Knowledge Graphs](https://arxiv.org/abs/2507.07595) | KDD       | [Link](https://github.com/ZhixiangSu/Context-Pooling)        |
 | 2025 | [Fast-and-Frugal Text-Graph Transformers are Effective Link Predictors](https://arxiv.org/abs/2408.06778) | ACL       | [Link](https://github.com/idiap/fnf-tg)                      |
 | 2025 | [HyperFM: Fact-Centric Multimodal Fusion for Link Prediction over Hyper-Relational Knowledge Graphs](https://www.fst.um.edu.mo/personal/wp-content/uploads/2025/05/2025_ACL_HyperFM.pdf) | ACL       | [Link](https://github.com/UM-Data-Intelligence-Lab/HyperFM)  |
 | 2025 | [HySAE: An Efficient Semantic-Enhanced Representation Learning Model for Knowledge Hypergraph Link Prediction](https://openreview.net/forum?id=OLLYLTb8FC) | WWW       | Link                                                         |
 | 2025 | [Transfer-and-Fusion: Integrated Link Prediction Across Knowledge Graphs](https://ieeexplore.ieee.org/document/10897840) | TKDE      | [Link](https://github.com/nju-websoft/CLP)                   |
-| 2025 | [Leveraging Open Path from Pruned Graph for Link Prediction on Knowledge Graphs](https://doi.org/10.1007/978-3-032-09527-5_30) | ISWC | [Link](https://github.com/starrlee356/OPPGLP) |
 | 2024 | [Causal Subgraph Learning for Generalizable Inductive Relation Prediction](https://dl.acm.org/doi/10.1145/3637528.3671972) | KDD       | Link                                                         |
 | 2024 | [Rethinking Complex Queries on Knowledge Graphs with Neural Link Predictors](https://arxiv.org/abs/2304.07063) | ICLR      | [Link](https://github.com/HKUST-KnowComp/FIT)                |
 | 2024 | [Using Model Calibration to Evaluate Link Prediction in Knowledge Graphs](https://dl.acm.org/doi/abs/10.1145/3589334.3645506) | WWW       | [Link](https://github.com/nari97/WWW2024_Model_Calibration)  |
