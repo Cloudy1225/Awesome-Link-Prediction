@@ -21,6 +21,11 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 
 | Year | Title                                                        | Venue             | Code                                                         |
 | ---- | ------------------------------------------------------------ | ----------------- | ------------------------------------------------------------ |
+| 2026 | [AtlasULP: Domain-aware Universal Link Prediction via Relation Atlas](https://neurips.cc/virtual/2026/poster/150816) | NIPS              | Link                                                         |
+| 2026 | [Learnable Diffusion-based Positional Encodings for Link Prediction](https://neurips.cc/virtual/2026/poster/152946) | NIPS              | Link                                                         |
+| 2026 | [Concorde: Geometry-Aware Link Prediction via Decoupled Energy Minimization](https://neurips.cc/virtual/2026/poster/150148) | NIPS              | Link                                                         |
+| 2026 | [Beyond Local Neighborhoods: Fractional Diffusion with Levy Flights on Simplicial Complexes for Link Prediction](https://neurips.cc/virtual/2026/poster/148623) | NIPS              | Link                                                         |
+| 2026 | [LP-RAG: Learning to Retrieve with Link Predictors](https://neurips.cc/virtual/2026/poster/149466) | NIPS              | Link                                                         |
 | 2026 | [Self-Explaining Graph Neural Network for Link Prediction Based on Path-Aware Prototype Learning](https://ieeexplore.ieee.org/document/11683389) | TKDE              | Link                                                         |
 | 2026 | [MIMO-LP: A Multi-Input Multi-Output Framework for Subgraph-based Link Prediction](https://icml.cc/virtual/2026/poster/66260) | ICML              | Link                                                         |
 | 2026 | [Plain Transformers are Surprisingly Powerful Link Predictors](https://arxiv.org/abs/2602.01553) | ICML              | [Link](https://github.com/quang-truong/pencil)               |
@@ -187,6 +192,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 
 | Year | Title                                                        | Venue            |                             Code                             |
 | :--: | ------------------------------------------------------------ | ---------------- | :----------------------------------------------------------: |
+| 2026 | [A New Perspective on Target-Conditioned Structural Dynamics for Link Prediction in Dynamic Graphs](https://neurips.cc/virtual/2026/poster/151703) | NIPS             |                             Link                             |
 | 2026 | [Higher-order Structure Boosts Link Prediction on Temporal Graphs](https://arxiv.org/abs/2505.15746) | SDM              |                             Link                             |
 | 2026 | [Global-Lens Transformers: Adaptive Token Mixing for Dynamic Link Prediction](https://arxiv.org/abs/2511.12442) | AAAI              | Link                                                         |
 | 2026 | [Unlocking Multi-Modal Potentials for Link Prediction on Dynamic Text-Attributed Graphs](https://arxiv.org/abs/2502.19651) | AAAI              | [Link](https://github.com/LuckyGirl-XU/MoMent)               |
