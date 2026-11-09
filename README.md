@@ -193,6 +193,9 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 
 | Year | Title                                                        | Venue            |                             Code                             |
 | :--: | ------------------------------------------------------------ | ---------------- | :----------------------------------------------------------: |
+| 2026 | [HAWKEYE: Seeing One Layer Deeper — A Cohesion-Aware Structural Channel for Temporal Link Prediction](https://dl.acm.org/doi/10.1145/3799682.3841168) | CIKM             | [Link](https://github.com/graphuofm/hawkeye) |
+| 2026 | [CCEC-TGN for Link Prediction in Large-Scale Continuous-Time Dynamic Graphs](https://dl.acm.org/doi/10.1145/3799682.3840866) | CIKM             |                             Link                             |
+| 2026 | [SSR: Star-Shaped Rules for Link Prediction on Temporal Knowledge Graphs](https://dl.acm.org/doi/10.1145/3799682.3841032) | CIKM             |                             Link                             |
 | 2026 | [A New Perspective on Target-Conditioned Structural Dynamics for Link Prediction in Dynamic Graphs](https://neurips.cc/virtual/2026/poster/151703) | NeurIPS             |                             Link                             |
 | 2026 | [Higher-order Structure Boosts Link Prediction on Temporal Graphs](https://arxiv.org/abs/2505.15746) | SDM              |                             Link                             |
 | 2026 | [Global-Lens Transformers: Adaptive Token Mixing for Dynamic Link Prediction](https://arxiv.org/abs/2511.12442) | AAAI              | Link                                                         |
@@ -242,6 +245,7 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 
 | Year | Title                                                        | Venue | Code                                           |
 | ---- | ------------------------------------------------------------ | ----- | ---------------------------------------------- |
+| 2026 | [Hyperlink Prediction on Hypergraphs of Text](https://dl.acm.org/doi/10.1145/3799682.3839872) | CIKM  | Link                                           |
 | 2023 | [HyConvE: A Novel Embedding Model for Knowledge Hypergraph Link Prediction with Convolutional Neural Networks](https://dl.acm.org/doi/10.1145/3543507.3583256) | WWW   | Link                                           |
 | 2023 | [Explainable Hyperlink Prediction: A Hypergraph Edit Distance-Based Approach](https://ieeexplore.ieee.org/document/10184572) | ICDE  | Link                                           |
 | 2023 | [Interpretable Subgraph Feature Extraction for Hyperlink Prediction](https://ieeexplore.ieee.org/document/10415757) | ICDM  | [Link](https://github.com/KXDY233/SSF)         |
@@ -270,6 +274,9 @@ Link Prediction (LP) attempts to predict unobserved edges in a graph. It has bee
 
 | Year | Title                                                        | Venue     | Code                                                         |
 | ---- | ------------------------------------------------------------ | --------- | ------------------------------------------------------------ |
+| 2026 | [SSR: Star-Shaped Rules for Link Prediction on Temporal Knowledge Graphs](https://dl.acm.org/doi/10.1145/3799682.3841032) | CIKM      | Link                                                         |
+| 2026 | [Mind the Margins: Probing Link Prediction via Perturbations](https://dl.acm.org/doi/10.1145/3799682.3840996) | CIKM      | Link                                                         |
+| 2026 | [Micro vs. Macro Averaging for Link Prediction Evaluation in Knowledge Graphs](https://dl.acm.org/doi/10.1145/3799682.3840137) | CIKM      | Link                                                         |
 | 2026 | [On the Theoretical Limitations of Embedding-based Link Prediction](https://icml.cc/virtual/2026/poster/64561) | ICML      | Link                                                         |
 | 2026 | [Adaptive Knowledge Distillation With GCN–GAT Teacher–Student Models for Link Prediction on Out of Entity Triples](https://ieeexplore.ieee.org/abstract/document/11675908) | TKDE | [Link](https://github.com/hanlly/GGTSM) |
 | 2026 | [HYPER: A Foundation Model for Inductive Link Prediction with Knowledge Hypergraphs](https://arxiv.org/abs/2506.12362) | ICLR      | [Link](https://github.com/HxyScotthuang/HYPER)                                                     |
